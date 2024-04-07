@@ -1,7 +1,7 @@
 <h1 align="center">Better Content Warning 🎥️</h1>
 
 <a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/">
-<img src="https://raw.githubusercontent.com/Adler-real/Better_ContentWarning/main/images/banner.png" alt="Banner">
+<img src="images/banner.png" alt="Banner">
 </a>
 
 </br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/">
