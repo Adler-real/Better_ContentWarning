@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Adler-real/Better_ContentWarning/main/images/banner.png?token=GHSAT0AAAAAACQVGK6NH4MQ6DOKQF3UI3SCZQS44MQ" alt="Banner">
 </a>
 
-<br>🎉️ Thanks for The 2000 Downloads! 🧡️
+<br>[Download Better Content Warning Modpack on Thunderstore](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
 
 ### Features:
 
