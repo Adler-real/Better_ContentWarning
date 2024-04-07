@@ -5,7 +5,7 @@
 </a>
 
 </br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/">
-<img title="Download Better Content Warning Modpack on Thunderstore.io" src="images/thunderstore.png" alt="Download Better Content Warning Modpack on Thunderstore.io" width="258">
+<img title="Download Better Content Warning Modpack on Thunderstore.io" src="images/thunderstore.svg" alt="Download Better Content Warning Modpack on Thunderstore.io" width="258">
 </a>
 
 ### Features:
