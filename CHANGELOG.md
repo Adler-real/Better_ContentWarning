@@ -1,5 +1,30 @@
 # Changelog
 
+## V1.2.2 <sub> |08.04.2024|</sub>
+
+#### Updated:
+
+- Updated Mod [CWMouseWheel](https://thunderstore.io/c/content-warning/p/zatrit/CWMouseWheel/) from `1.0.19` to `1.0.20`
+
+#### Configs:
+
+<ul>
+<li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/zatrit/CWMouseWheel/">CWMouseWheel</a> Configs</summary>
+Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
+</details>
+</li>
+</ul>
+
+#### Misc:
+
+- Disabled Mod [CWMouseWheel](https://thunderstore.io/c/content-warning/p/zatrit/CWMouseWheel/)
+  
+  - You can Activate the mod by pressing `F1` ingame, Then Select CWMouseWheel and Activate Option `Enabled` 
+
+- Updated `README.md`
+
 ## V1.2.1 <sub> |08.04.2024|</sub>
 
 #### Only Avaible on Thunderstore
