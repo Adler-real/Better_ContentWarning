@@ -8,7 +8,7 @@
 <img title="Download Better Content Warning Modpack on Thunderstore.io" src="images/thunderstore.svg" alt="Download Better Content Warning Modpack on Thunderstore.io" width="240">
 </a>
 
-<br>🎉️ Thanks for The 2000 Downloads! 🧡️
+<br>🎉️ Thanks for The 2000 Downloads on Thunderstore! 🧡️
 
 ### Features:
 
