@@ -50,10 +50,6 @@
 
 - Emotes are Free in the Store 🛍️!
 
-- Change your Item with the Mouse Wheel!
-  
-  - <b>Note:</b> Press <code>C</code> to Zoom with your camera
-
 - You have now a Crossair!
 
 - You can Ragdoll by Holding `TAB`
