@@ -1,12 +1,10 @@
 <h1 align="center">Better Content Warning 🎥️</h1>
 
 <a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/">
-<img src="images/banner.png" alt="Banner">
+<img src="https://raw.githubusercontent.com/Adler-real/Better_ContentWarning/main/images/banner.png" alt="Banner">
 </a>
 
-</br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/">
-<img title="Download Better Content Warning Modpack on Thunderstore.io" src="images/thunderstore.svg" alt="Download Better Content Warning Modpack on Thunderstore.io" width="240">
-</a>
+<br>🎉️ Thanks for The 2000 Downloads! 🧡️
 
 ### Features:
 
@@ -54,7 +52,7 @@
 
 - You have now a Crossair!
 
-- By pressing `TAB` you can Ragdoll!
+- You can Ragdoll by Holding `TAB`
 
 - And more! ...
 
@@ -87,4 +85,4 @@
 
 ### Suggestions / Report Issues:
 
-For **Feedback**, **Suggestions** or **Issues** feel free to open an <b><code>issue</code></b> on the [**GitHub repository**](https://github.com/Adler-real/Better_ContentWarning) of [Better Content Warning](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/).
+For **Feedback**, **Suggestions** or **Issues** feel free to open an <b><code><a href="https://github.com/Adler-real/Better_ContentWarning/issues">issue</a></code></b> on the [**GitHub repository**](https://github.com/Adler-real/Better_ContentWarning) of [Better Content Warning](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/).
