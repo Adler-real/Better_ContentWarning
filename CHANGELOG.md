@@ -1,6 +1,14 @@
 # Changelog
 
-## V1.2.0 <sub> |07.04.2024|</sub>
+## V1.2.1 <sub> |08.04.2024|</sub>
+
+#### Only Avaible on Thunderstore
+
+- Download v1.2.1 (Instant/Direct Download link!) -> https://thunderstore.io/package/download/Horizon/Better_Content_Warning_Modpack/1.2.1/
+
+- Changelog of v1.2.1 -> https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/changelog/
+
+## V1.2.0 <sub> |08.04.2024|</sub>
 
 #### Big Update!
 
@@ -63,4 +71,4 @@
 
 ## Older Versions
 
-For older Versions, Visit https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/changelog/
+- For older Versions, Visit https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/
