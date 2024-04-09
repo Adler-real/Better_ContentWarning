@@ -1,5 +1,30 @@
 # Changelog
 
+## V1.2.3/V1.2.4 <sub> |09.04.2024|</sub>
+
+#### Updated:
+
+- Updated Mod [Flashcard](https://thunderstore.io/c/content-warning/p/loaforc/Flashcard/) from `v0.3.1` to `v0.3.2`
+
+- Updated Mod [MoreSpookerVideo](https://thunderstore.io/c/content-warning/p/TrioGhost/MoreSpookerVideo/) from `v1.0.6` to `v1.0.7`
+
+- Updated Mod [MyceliumNetworking](https://thunderstore.io/c/content-warning/p/RugbugRedfern/MyceliumNetworking/) from `v1.0.2` to `v1.0.7`
+
+#### Configs:
+
+<ul>
+<li>
+<details open>
+<summary>Fixed <a href="https://thunderstore.io/c/content-warning/p/RamuneNeptune/MakeMeRagdoll/">MakeMeRagdoll</a> Configs</summary>
+Changed <code>Activate ragdoll keybind</code> from <code>BackQuote</code> to <code>Tab</code>
+</details>
+</li>
+</ul>
+
+#### Misc:
+
+- Updated `README.md`
+
 ## V1.2.2 <sub> |08.04.2024|</sub>
 
 #### Updated:
