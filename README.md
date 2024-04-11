@@ -4,15 +4,13 @@
 <img src="https://raw.githubusercontent.com/Adler-real/Better_ContentWarning/main/images/banner.png" alt="Banner">
 </a>
 
-</br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/">
-<img title="Download Better Content Warning Modpack on Thunderstore.io" src="images/thunderstore.svg" alt="Download Better Content Warning Modpack on Thunderstore.io" width="240">
-</a>
-
-<br>🎉️🎉️ Thanks for The 4000 and 5000 Downloads on Thunderstore! 🧡️🧡️🧡️
+<br>🎉️ Special thanks 🎉️ to everyone who downloaded this modpack! 7000+ Downloads is crazy! 🧡️🧡️🧡️🧡
 
 ### Features:
 
 - Custom Configs 📄️!
+
+- More Graphic Settings ⚙️!
 
 - You can now Buy Cameras 🎥️!
 
@@ -36,7 +34,7 @@
 <ul>
 <li>
 <details open>
-<summary>Better & Longer Sprinting! ᐁ</summary>
+<summary>Better & Longer Sprinting 🏃‍➡️! ᐁ</summary>
 <ul>
 <li><code>Sprint Speed</code> is now <code>2.2</code> <small>[Content Warning's Default is <code>2</code>]</small></li>
 <li><code>Max Stamina</code> is now <code>13</code> <small>[Content Warning's Default is <code>10</code>]</small></li>
@@ -50,7 +48,13 @@
 
 - Emotes are Free in the Store 🛍️!
 
+- Buy a Boombox with Music and Meme Sounds 🔊️!
+
 - You have now a Crossair!
+
+- You can Push Your Friends with Holding `E`!
+  
+  - Please set in the ingame settings under `Modded` the option `Shove Enemies` to `No`
 
 - You can Ragdoll by Holding `TAB`
 
@@ -81,7 +85,7 @@
 
 <ul> <blockquote><strong>This modpack may stop working due to the constant updates of the game</strong></blockquote></ul>
 
-- Nothing
+- The camera price is 100, and not 65
 
 ### Suggestions / Report Issues:
 
