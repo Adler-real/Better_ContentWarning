@@ -1,5 +1,62 @@
 # Changelog
 
+## V1.3.0 <sub> |11.04.2024|</sub>
+
+#### Added:
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/Jasson9/MoreSettings/">MoreSettings</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Jasson9/">Jasson9</a></small>
+
+<ul>
+<li>
+<details open>
+<summary>Added Mod <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/Shuv/">Shuv</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/">www_Day_Dream</a></small></summary>
+<ul><li>Added Mod <a href="https://thunderstore.io/c/content-warning/p/CommanderCat101/ContentSettings/">ContentSettings</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/CommanderCat101/">CommanderCat101</a></small></summary> because of Dependency</li></ul>
+</details>
+</li>
+</ul>
+
+<ul>
+<li>
+<details open>
+<summary>Added Mod <a href="https://thunderstore.io/c/content-warning/p/hyydsz/Boombox/">Boombox</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/hyydsz/">hyydsz</a></small></summary>
+<ul><li>Added Mod <a href="https://thunderstore.io/c/content-warning/p/hyydsz/ShopUtils/">ShopUtils</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/hyydsz/">hyydsz</a></small></summary> because of Dependency</li></ul>
+</details>
+</li>
+</ul>
+
+<ul>
+<li>
+<details open>
+<summary>Added Mod <a href="https://thunderstore.io/c/content-warning/p/Wudeczkownia/KinoMusic/">KinoMusic</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Wudeczkownia/">Wudeczkownia</a></small></summary>
+<ul><li>Added Mod <a href="https://thunderstore.io/c/content-warning/p/LimeSkillZ/BoomboxMusicShare/">BoomboxMusicShare</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/LimeSkillZ/">LimeSkillZ</a></small></summary> because of Dependency</li></ul>
+</details>
+</li>
+</ul>
+
+#### Updated:
+
+- Updated Mod [Official BepInExConfigurationManager](https://thunderstore.io/c/content-warning/p/Azumatt/Official_BepInExConfigurationManager/) from `18.2.0` to `18.3.0`
+
+- Updated Mod [MyceliumNetworking](https://thunderstore.io/c/content-warning/p/RugbugRedfern/MyceliumNetworking/) from `v1.0.7` to `v1.0.10`
+
+- Updated Mod [More Comments](https://thunderstore.io/c/content-warning/p/GamingFrame/More_Comments/) from `v1.2.0` to `v1.2.1`
+
+- Updated Mod [MoreColors](https://thunderstore.io/c/content-warning/p/ViViKo/MoreColors/) from `1.4.1` to `1.4.2`
+
+- Updated Mod [BetterFaceRotation](https://thunderstore.io/c/content-warning/p/ViViKo/BetterFaceRotation/) from `1.0.0` to `1.0.1`
+
+- Updated Mod [Dont Trip](https://thunderstore.io/c/content-warning/p/Skytrymotion/Dont_Trip/) from `1.2.1` to `1.3.0`
+
+#### Misc:
+
+- Updated `README.md`
+
+- Updated `CHANGELOG.md`
+
+#### Known Issues:
+
+- The camera price is 100, and not 65
+
 ## V1.2.3/V1.2.4 <sub> |09.04.2024|</sub>
 
 #### Updated:
