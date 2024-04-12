@@ -4,7 +4,11 @@
 <img src="https://raw.githubusercontent.com/Adler-real/Better_ContentWarning/main/images/banner.png" alt="Banner">
 </a>
 
-<br>🎉️ Special thanks 🎉️ to everyone who downloaded this modpack! 7000+ Downloads is crazy! 🧡️🧡️🧡️🧡
+</br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/">
+<img title="Download Better Content Warning Modpack on Thunderstore.io" src="images/thunderstore.svg" alt="Download Better Content Warning Modpack on Thunderstore.io" width="240">
+</a>
+
+🎉️ Special thanks 🎉️ to everyone who downloaded this modpack! 7000+ Downloads is crazy! 🧡️🧡️🧡️🧡
 
 ### Features:
 
