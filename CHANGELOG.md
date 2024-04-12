@@ -1,5 +1,66 @@
 # Changelog
 
+## V1.4.0 <sub> |12.04.2024|</sub>
+
+#### Added:
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/nickklmao/ExitConfirmation/">ExitConfirmation</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/nickklmao/">nickklmao</a></small>
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/nickklmao/ExtraInventorySlot/">ExtraInventorySlot</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/nickklmao/">nickklmao</a></small>
+
+#### Replaced:
+
+- Replaced Mod [InfiniteOxygen](https://thunderstore.io/c/content-warning/p/teamcontentmods/InfiniteOxygen/) with <a href="https://thunderstore.io/c/content-warning/p/SmileHappyMods/BetterOxygen/">BetterOxygen</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/SmileHappyMods/">SmileHappyMods</a></small>
+
+- Replaced Mod [BetterSprint](https://thunderstore.io/c/content-warning/p/Astro/BetterSprint/) with <a href="https://thunderstore.io/c/content-warning/p/AnthonyStai/LongerSprinting/">LongerSprinting</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/AnthonyStai/">AnthonyStai</a></small>
+
+#### Updated:
+
+- Updated Mod [AutoHookGenPatcher](https://thunderstore.io/c/content-warning/p/Hamunii/AutoHookGenPatcher/) from `1.0.2` to `1.0.3`
+
+- Updated Mod [MyceliumNetworking](https://thunderstore.io/c/content-warning/p/RugbugRedfern/MyceliumNetworking/) from `1.0.10` to `1.0.11`
+
+- Updated Mod [ShopUtils](https://thunderstore.io/c/content-warning/p/hyydsz/ShopUtils/) from `1.0.5` to `1.0.7`
+
+- Updated Mod [Boombox](https://thunderstore.io/c/content-warning/p/hyydsz/Boombox/) from `1.1.0` to `1.1.1`
+
+- Updated Mod [MoreSettings](https://thunderstore.io/c/content-warning/p/Jasson9/MoreSettings/) from `0.0.2` to `0.1.0`
+
+- Updated Mod [Shuv](https://thunderstore.io/c/content-warning/p/www_Day_Dream/Shuv/) from `0.2.3` to `1.0.1`
+
+#### Removed:
+
+- Removed mod [VolumeBooster](https://thunderstore.io/c/content-warning/p/RamuneNeptune/VolumeBooster/), Because the game is already loud enough
+
+#### Config:
+
+- removed config [BetterSprint](https://thunderstore.io/c/content-warning/p/Astro/BetterSprint/) because mod deleted
+
+<ul>
+<li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/AnthonyStai/LongerSprinting/">LongerSprinting</a> Configs</summary>
+<ul><li>Changed <code>MaxStamina</code> from <code>20</code> to <code>13</code> <small>[Content Warning's Default is <code>10</code>]</small></li></ul>
+<ul><li>Changed <code>StaminaRegenRate</code> from <code>2</code> to <code>0.65</code> <small>[Content Warning's Default is <code>0.5</code>, (i dont know anymore)]</small></li></ul>
+<ul><li>Changed <code>SprintMultiplyer</code> from <code>2.3</code> to <code>2.2</code></li></ul>
+</details>
+</li>
+</ul>
+
+<ul>
+<li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/SmileHappyMods/BetterOxygen/">BetterOxygen</a> Configs</summary>
+<ul><li>Changed <code>Refill oxygen inside the diving bell?</code> from <code>false</code> to <code>true</code> <small>[Content Warning's Default is <code>false</code>]</small></li></ul>
+<ul><li>Changed <code>Maximum Oxygen (Minutes)</code> from <code>12</code> to <code>15</code> <small>[Content Warning's Default is <code>8</code> Minutes]</small></li></ul>
+</details>
+</li>
+</ul>
+
+#### Misc:
+
+- Updated `README.md`
+
 ## V1.3.0 <sub> |11.04.2024|</sub>
 
 #### Added:
