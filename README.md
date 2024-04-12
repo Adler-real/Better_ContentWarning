@@ -4,17 +4,13 @@
 <img src="https://raw.githubusercontent.com/Adler-real/Better_ContentWarning/main/images/banner.png" alt="Banner">
 </a>
 
-</br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/">
-<img title="Download Better Content Warning Modpack on Thunderstore.io" src="images/thunderstore.svg" alt="Download Better Content Warning Modpack on Thunderstore.io" width="240">
-</a>
-
 <br>🎉️ Special thanks 🎉️ to everyone who downloaded this modpack! 7000+ Downloads is crazy! 🧡️🧡️🧡️🧡
 
 ### Features:
 
 - Custom Configs 📄️!
 
-- More Graphic Settings ⚙️!
+- More Settings and More Graphic Settings ⚙️!
 
 - You can now Buy Cameras 🎥️!
 
@@ -38,7 +34,7 @@
 <ul>
 <li>
 <details open>
-<summary>Better & Longer Sprinting 🏃‍➡️! ᐁ</summary>
+<summary>Better & Longer Sprinting 🏃️! ᐁ</summary>
 <ul>
 <li><code>Sprint Speed</code> is now <code>2.2</code> <small>[Content Warning's Default is <code>2</code>]</small></li>
 <li><code>Max Stamina</code> is now <code>13</code> <small>[Content Warning's Default is <code>10</code>]</small></li>
@@ -48,13 +44,17 @@
 </li>
 </ul>
 
-- Infinity Oxygen 🎈️!
+- Better Oxygen 🎈️!
+  
+  - Oxygen refill in the Driving Bell 🎈️ 🔔️ 
 
 - Emotes are Free in the Store 🛍️!
 
 - Buy a Boombox with Music and Meme Sounds 🔊️!
 
 - You have now a Crossair!
+
+- You have now 4 Inventory Slots!
 
 - You can Push Your Friends with Holding `E`!
   
