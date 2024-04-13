@@ -1,5 +1,17 @@
 # Changelog
 
+## V1.4.2 <sub> |13.04.2024|</sub>
+
+#### Updated:
+
+- Updated Mod [ExtraInventorySlot](https://thunderstore.io/c/content-warning/p/nickklmao/ExtraInventorySlot/) from `1.0.1` to `1.0.2`
+
+- Updated Mod [BetterOxygen](https://thunderstore.io/c/content-warning/p/SmileHappyMods/BetterOxygen/) from `1.3.0` to `1.3.1`
+
+#### Misc:
+
+- Updated `README.md`
+
 ## V1.4.1 <sub> |13.04.2024|</sub>
 
 #### Updated:
