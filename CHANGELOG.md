@@ -1,5 +1,19 @@
 # Changelog
 
+## V1.4.1 <sub> |13.04.2024|</sub>
+
+#### Updated:
+
+- Updated Mod [Shuv](https://thunderstore.io/c/content-warning/p/www_Day_Dream/Shuv/) from `1.0.1` to `1.0.7`
+
+- Updated Mod [ExtraInventorySlot](https://thunderstore.io/c/content-warning/p/nickklmao/ExtraInventorySlot/) from `1.0.0` to `1.0.1`
+
+- Updated Mod [ContentSettings](https://thunderstore.io/c/content-warning/p/CommanderCat101/ContentSettings/) from `1.0.1` to `1.1.0`
+
+#### Misc:
+
+- Updated `README.md`
+
 ## V1.4.0 <sub> |12.04.2024|</sub>
 
 #### Added:
