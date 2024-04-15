@@ -4,11 +4,9 @@
 <img src="https://raw.githubusercontent.com/Adler-real/Better_ContentWarning/main/images/banner.png" alt="Banner">
 </a>
 
-</br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/">
-<img title="Download Better Content Warning Modpack on Thunderstore.io" src="images/thunderstore.svg" alt="Download Better Content Warning Modpack on Thunderstore.io" width="240">
-</a>
+<br>🎉️ Special thanks 🎉️ to everyone who downloaded this modpack! 11.000+ Downloads is really crazy! 🧡️🧡️🧡️🧡
 
-🎉️ Special thanks 🎉️ to everyone who downloaded this modpack! 7000+ Downloads is crazy! 🧡️🧡️🧡️🧡
+### v1.4.4 is Out!
 
 ### Features:
 
@@ -52,7 +50,11 @@
   
   - Oxygen refill in the Driving Bell 🎈️ 🔔️ 
 
-- Emotes are Free in the Store 🛍️!
+- You have a Emote Wheel 😄️! <small>(also Emotes are Free in the Store 🛍️)</small>
+  
+  - You can Open the Emote Wheel by Pressing/Holding `C`
+
+- More Items 🛍️!
 
 - Buy a Boombox with Music and Meme Sounds 🔊️!
 
@@ -60,7 +62,7 @@
 
 - You have now 4 Inventory Slots!
 
-- You can Push Your Friends with Holding `E`!
+- You can Push Your Friends by Holding `E`!
   
   - Please set in the ingame settings under `Modded` the option `Shove Enemies` to `No`
 
