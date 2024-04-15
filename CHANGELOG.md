@@ -1,5 +1,47 @@
 # Changelog
 
+## V1.4.4 <sub> |15.04.2024|</sub>
+
+#### Added:
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/Playboi/EmoteWheel/">EmoteWheel</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Playboi/">Playboi</a></small>
+
+#### Updated:
+
+- Updated Mod [SillyItems](https://thunderstore.io/c/content-warning/p/Arargd/SillyItems/) from `0.2.1` to `0.3.0`
+
+#### Misc:
+
+- Updated `README.md`
+
+## V1.4.3 <sub> |15.04.2024|</sub>
+
+- Sorry for the late update
+
+#### Added:
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/Arargd/SillyItems/">SillyItems</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Arargd/">Arargd</a></small>
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/">Toggle Mute</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Computery/">Computery</a></small>
+
+#### Replaced:
+
+- Replaced Mod <a href="https://thunderstore.io/c/content-warning/p/stormytuna/FreeEmotes/">FreeEmotes</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/stormytuna/">stormytuna</a></small> with <a href="https://thunderstore.io/c/content-warning/p/ViViKo/FreeEmotes/">FreeEmotes</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/ViViKo/">ViViKo</a></small>
+
+#### Updated:
+
+- Updated Mod [ShopUtils](https://thunderstore.io/c/content-warning/p/hyydsz/ShopUtils/) from `1.0.7` to `1.0.8`
+
+- Updated Mod [Boombox](https://thunderstore.io/c/content-warning/p/hyydsz/Boombox/) from `1.1.1` to `1.1.2`
+
+- Updated Mod [MoreSettings](https://thunderstore.io/c/content-warning/p/Jasson9/MoreSettings/) from `0.1.0` to `0.2.0`
+
+- Updated Mod [Shuv](https://thunderstore.io/c/content-warning/p/www_Day_Dream/Shuv/) from `1.0.7` to `1.0.9`
+
+#### Misc:
+
+- Updated `README.md`
+
 ## V1.4.2 <sub> |13.04.2024|</sub>
 
 #### Updated:
