@@ -1,5 +1,27 @@
 # Changelog
 
+## V1.5.0 <sub> |20.04.2024|</sub>
+
+#### Updated: 
+
+- Updated Mod [MakeMeRagdoll](https://thunderstore.io/c/content-warning/p/RamuneNeptune/MakeMeRagdoll/) from `v1.1.1` to `v1.1.2`
+
+#### Added:
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/cyclozarin/SnoringWarning/">SnoringWarning</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/cyclozarin/">cyclozarin</a></small>
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/Computery/Fall_Fix/">Fall Fix</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Computery/">Computery</a></small>
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/Greft/LongRangeReload/">LongRangeReload</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Greft/">Greft</a></small>
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/">ShopTweaks</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/ViViKo/">ViViKo</a></small>
+
+#### Misc:
+
+- Updated Modpack Discription (`manifest.json`)
+
+- Updated `README.md`
+
 ## V1.4.4 <sub> |15.04.2024|</sub>
 
 #### Added:
