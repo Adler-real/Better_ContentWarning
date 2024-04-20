@@ -1,8 +1,31 @@
 # Changelog
 
+## V1.5.1 <sub> |20.04.2024|</sub>
+
+#### Updated:
+
+- Updated Mod [LongRangeReload](https://thunderstore.io/c/content-warning/p/Greft/LongRangeReload/) from `v1.0.2` to `v1.1.2`
+
+#### Configs:
+
+<ul>
+<li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/TrioGhost/MoreSpookerVideo/">MoreSpookerVideo</a> Configs</summary>
+<ul><li>Changed <code>StartMoney</code> from <code>0 <i><small>(Default Value)</small></i></code> to <code>25</code></li></ul>
+</details>
+</li>
+</ul>
+
+#### Misc:
+
+- Updated `README.md`
+
+- Updated `CHANGELOG.md`
+
 ## V1.5.0 <sub> |20.04.2024|</sub>
 
-#### Updated: 
+#### Updated:
 
 - Updated Mod [MakeMeRagdoll](https://thunderstore.io/c/content-warning/p/RamuneNeptune/MakeMeRagdoll/) from `v1.1.1` to `v1.1.2`
 
@@ -21,6 +44,28 @@
 - Updated Modpack Discription (`manifest.json`)
 
 - Updated `README.md`
+
+- Updated `icon.png`
+
+## V1.4.6 <sub> |17.04.2024|</sub>
+
+- Im stupid, The mod [Toggle Mute](https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/) works fine! sorry [Computery](https://thunderstore.io/c/content-warning/p/Computery/)
+
+#### Added:
+
+- Added Mod (Again) <a href="https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/">Toggle Mute</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Computery/">Computery</a></small>
+
+#### Misc:
+
+- Updated `README.md`
+
+## V1.4.5 <sub> |16.04.2024|</sub>
+
+- Sorry for the really late patch
+
+#### Removed:
+
+- Removed mod [Toggle Mute](https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/), Because issues
 
 ## V1.4.4 <sub> |15.04.2024|</sub>
 
@@ -208,7 +253,7 @@
 
 - The camera price is 100, and not 65
 
-## V1.2.3/V1.2.4 <sub> |09.04.2024|</sub>
+## V1.2.4 <sub> |09.04.2024|</sub>
 
 #### Updated:
 
@@ -228,6 +273,12 @@ Changed <code>Activate ragdoll keybind</code> from <code>BackQuote</code> to <co
 </details>
 </li>
 </ul>
+
+#### Misc:
+
+- Updated `README.md`
+
+## V1.2.3 <sub> |08.04.2024|</sub>
 
 #### Misc:
 
@@ -256,17 +307,51 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
   
   - You can Activate the mod by pressing `F1` ingame, Then Select CWMouseWheel and Activate Option `Enabled` 
 
+- `v1.2.1` / `v1.2.2` is now on GitHub!
+
 - Updated `README.md`
+
+- Updated `CHANGELOG.md`
+  
+  - on version `1.2.1`, i forgot to change the release date
 
 ## V1.2.1 <sub> |08.04.2024|</sub>
 
-#### Only Avaible on Thunderstore
+#### Updated:
 
-- Download v1.2.1 (Instant/Direct Download link!) -> https://thunderstore.io/package/download/Horizon/Better_Content_Warning_Modpack/1.2.1/
+- Updated Mod [DetourContext Dispose Fix](https://thunderstore.io/c/content-warning/p/Hamunii/DetourContext_Dispose_Fix/) from `v1.0.2` to `v1.1.3`
 
-- Changelog of v1.2.1 -> https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/changelog/
+- Updated Mod [Flashcard](https://thunderstore.io/c/content-warning/p/loaforc/Flashcard/) from `v0.3.0` to `v0.3.1`
 
-## V1.2.0 <sub> |08.04.2024|</sub>
+- Updated Mod [MakeMeRagdoll](https://thunderstore.io/c/content-warning/p/RamuneNeptune/MakeMeRagdoll/) from `v1.0.20` to `v1.1.1`
+
+- Updated Mod [More Comments](https://thunderstore.io/c/content-warning/p/GamingFrame/More_Comments/) from `v1.1.0` to `v1.2.0`
+
+- Updated Mod [MoreSpookerVideo](https://thunderstore.io/c/content-warning/p/TrioGhost/MoreSpookerVideo/) from `v1.0.4` to `v1.0.6`
+
+- Updated Mod [MyceliumNetworking](https://thunderstore.io/c/content-warning/p/RugbugRedfern/MyceliumNetworking/) from `v1.0.1` to `v1.0.2`
+
+#### Configs:
+
+- Reloaded/Updated All Configs
+
+<ul>
+<li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/CTWOriginals/CrossHair/">CrossHair</a> Configs</summary>
+<ul><li>Changed <code>CrossHairSize</code> from <code>20</code> to <code>25</code></li></ul>
+<ul><li>Changed <code>CrossHairOpacity</code> from <code>40</code> to <code>10</code></li></ul>
+</details>
+</li>
+</ul>
+
+#### Misc:
+
+- Updated `README.md`
+
+- GitHub Release comming Later
+
+## V1.2.0 <sub> |07.04.2024|</sub>
 
 #### Big Update!
 
@@ -327,6 +412,191 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 - Updated `README.md`
 - Updated Modpack Discription (`manifest.json`)
 
-## Older Versions
+## V1.1.6 <sub> |06.04.2024|</sub>
 
-- For older Versions, Visit https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/
+#### Added:
+
+<ul>
+<li>
+<details open>
+<summary>Added Mod <a href="https://thunderstore.io/c/content-warning/p/CTWOriginals/CrossHair/">CrossHair</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/CTWOriginals/">CTWOriginals</a></small></summary>
+<ul><li>Added Mod <a href="https://thunderstore.io/c/content-warning/p/Hamunii/AutoHookGenPatcher/">AutoHookGenPatcher</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Hamunii/">Hamunii</a></small></summary> because of Dependency</li></ul>
+</details>
+</li>
+</ul>
+
+#### Configs:
+
+<ul>
+<li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/CTWOriginals/CrossHair/">CrossHair</a> Configs</summary>
+<ul><li>Changed <code>CrossHairText</code> from <code>- + -</code> to <code>+</code></li></ul>
+<ul><li>Changed <code>CrossHairSize</code> from <code>40</code> to <code>30</code></li></ul>
+<ul><li>Changed <code>CrossHairOpacity</code> from <code>80</code> to <code>8</code></li></ul>
+</details>
+</li>
+</ul>
+
+#### Misc:
+
+- Updated `README.md`
+- Updated `CHANGELOG.md`
+- Updated Modpack Discription (`manifest.json`)
+
+## V1.1.5 <sub> |06.04.2024|</sub>
+
+#### Misc:
+
+- Updated Modpack Discription (`manifest.json`)
+- Updated `README.md`
+- Updated `CHANGELOG.md`
+- Updated `icon.png`
+
+Again...
+
+## V1.1.4 <sub> |06.04.2024|</sub>
+
+#### Configs:
+
+<ul>
+<li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/Astro/BetterSprint/">BetterSprint</a> Configs</summary>
+<ul><li>Changed <code>SprintSpeed</code> from <code>2.3</code> to <code>2.2</code> <small>[Content Warning's Default is <code>2</code>]</small></li></ul>
+<ul><li>Changed <code>maxStamina</code> from <code>12.5</code> to <code>13</code> <small>[Content Warning's Default is <code>10</code>]</small></li></ul>
+<ul><li>Changed <code>staminaRegen</code> from <code>1.25</code> to <code>1.3</code> <small>[Content Warning's Default is <code>1</code>]</small></li></ul>
+</details>
+</li>
+</ul>
+
+#### Misc:
+
+- Updated Modpack Discription (`manifest.json`)
+- Updated `README.md`
+- Updated `CHANGELOG.md`
+
+## V1.1.3 <sub> |06.04.2024|</sub>
+
+#### Misc:
+
+- Updated `README.md`
+- Updated `icon.png`
+
+## V1.1.2 <sub> |06.04.2024|</sub>
+
+#### Misc:
+
+- Updated `README.md`
+- Removed `banner.png`
+
+## V1.1.1 <sub> |06.04.2024|</sub>
+
+#### Updated:
+
+- Updated Mod [Extended Player Names](https://thunderstore.io/c/content-warning/p/CWModder/Extended_Player_Names/) from `1.0.0` to `1.1.0`
+
+- Updated Mod [MoreColors](https://thunderstore.io/c/content-warning/p/ViViKo/MoreColors/) from `1.3.0 `to `1.4.0`
+
+- Updated Mod [CWMouseWheel](https://thunderstore.io/c/content-warning/p/zatrit/CWMouseWheel/) from `1.0.14` to `1.0.19`
+
+#### Configs:
+
+<ul> <li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/zatrit/CWMouseWheel/">CWMouseWheel</a> Configs</summary>
+Changed <code>Invert scroll</code> from <code>false</code> to <code>true</code>
+</details>
+</li> </ul>
+
+<ul> <li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/Astro/BetterSprint/">BetterSprint</a> Configs</summary>
+<ul><li>Changed <code>SprintSpeed</code> from <code>2.25</code> to <code>2.3</code> | <small>(Content Warning's Default is <code>2</code>)</small></li></ul>
+</details>
+</li> </ul>
+
+#### Misc:
+
+- Updated `CHANGELOG.md`
+- Updated `README.md`
+- Added `banner.png`
+
+## V1.1.0 <sub> |05.04.2024|</sub>
+
+#### Big Update!
+
+#### Replaced:
+
+- Replaced Mod [MoreCustomization](https://thunderstore.io/c/content-warning/p/DiabolicalStudios/MoreCustomization/) to [Extended Player Names](https://thunderstore.io/c/content-warning/p/CWModder/Extended_Player_Names/), Because of bugs
+
+#### Updated:
+
+- Updated Mod [CWMouseWheel](https://thunderstore.io/c/content-warning/p/zatrit/CWMouseWheel/) from `1.0.8` to `1.0.14` 
+
+#### Configs:
+
+<ul> <li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/zatrit/CWMouseWheel/">CWMouseWheel</a> Configs</summary>
+Changed <code>Skip empty slots</code> from <code>true</code> to <code>false</code>
+</details>
+</li> </ul>
+
+<ul> <li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/Astro/BetterSprint/">BetterSprint</a> Configs</summary>
+<ul><li>Changed <code>SprintSpeed</code> from <code>3</code> to <code>2.3</code> <small>[Content Warning's Default is <code>2</code>]</small></li></ul>
+<ul><li>Changed <code>maxStamina</code> from <code>15</code> to <code>12.5</code> <small>[Content Warning's Default is <code>10</code>]</small></li></ul>
+<ul><li>Changed <code>staminaRegen</code> from <code>2</code> to <code>1.3</code> <small>[Content Warning's Default is <code>1</code>]</small></li></ul>
+</details>
+</li> </ul>
+
+<ul> <li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/loaforc/Flashcard/">Flashcard</a> Configs</summary>
+Changed <code>ClipLength</code> from <code>120</code> to <code>135</code> <small>[Content Warning's Default is <code>90</code>]</small>
+</details>
+</li> </ul>
+
+<ul> <li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/ViViKo/MoreColors/">MoreColors</a> Configs</summary>
+Changed <code>Apply Color To Suit</code> from <code>true</code> to <code>false</code>, Because of bugs
+</details>
+</li> </ul>
+
+<ul> <li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/RamuneNeptune/MakeMeRagdoll/">MakeMeRagdoll</a> Configs</summary>
+Changed <code>Duration</code> from <code>2</code> to <code>3</code>
+</details>
+</li> </ul>
+
+#### Removed:
+
+- Removed mod [PitchBlack](https://thunderstore.io/c/content-warning/p/Arargd/PitchBlack/), Because of potential bugs
+
+#### Misc:
+
+- Updated `icon.png`
+- Updated `README.md`
+
+Thanks to [Force_GER](https://twitter.com/force_ger) for help optimizing the modpack!
+
+## V1.0.3 <sub> |05.04.2024|</sub>
+
+### Configs:
+
+<ul> <li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/zatrit/CWMouseWheel/">CWMouseWheel</a> Configs</summary>
+Changed <code>Camera zoom key</code> from <code>Z</code> to <code>C</code>
+</details>
+</li> </ul>
+
+## V1.0.2 <sub> |05.04.2024|</sub>
+
+- Modpack Released
+
+- Changelog file was removed because there were examples in the changelog file
