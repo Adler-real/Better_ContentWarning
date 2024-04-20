@@ -1,15 +1,17 @@
 <h1 align="center">Better Content Warning 🎥️</h1>
 
 <a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/">
-<img src="https://raw.githubusercontent.com/Adler-real/Better_ContentWarning/main/images/banner.png" alt="Banner">
+<img src="https://raw.githubusercontent.com/Adler-real/uploadedfiles/main/banner.png" alt="Banner">
 </a>
+
+
 
 <br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/"><img alt="Thunderstore Downloads" src="https://img.shields.io/thunderstore/dt/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray"></a> <a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/"><img alt="Thunderstore Version" src="https://img.shields.io/thunderstore/v/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray"></a> <a href="https://github.com/Adler-real/Better_ContentWarning"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Adler-real/Better_ContentWarning?include_prereleases&sort=date&display_name=release&style=for-the-badge&logo=github&logoColor=white&label=GitHub&labelColor=black&color=gray">
 </a>
 
 </br>🎉️ Special thanks 🎉️ to everyone who downloaded this modpack! 🧡️🧡️
 
-### v1.5.0 is Out!
+### v1.5.1 is Out!
 
 ### Features:
 
@@ -98,8 +100,10 @@
 
 <ul> <blockquote><strong>This modpack may stop working due to the constant updates of the game</strong></blockquote></ul>
 
-- The camera price is 100, and not 65
+- The `Camera Price` is `100`, and not `65`
 
 ### Suggestions / Report Issues:
 
-For **Feedback**, **Suggestions** or **Issues** feel free to open an <b><code><a href="https://github.com/Adler-real/Better_ContentWarning/issues">issue</a></code></b> on the [**GitHub repository**](https://github.com/Adler-real/Better_ContentWarning) of [Better Content Warning](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/).
+<a href="https://github.com/Adler-real/Better_ContentWarning/issues/new"> <img alt="Create a Issues on GitHub" src="https://img.shields.io/github/issues/Adler-real/Better_ContentWarning?style=flat-square&logo=github&logoColor=white&labelColor=black&color=gray"></a>
+
+For <b>Questions</b> <b>Feedback</b>, <b>Suggestions</b> or <b>Issues</b> feel free to open an <b><code><a href="https://github.com/Adler-real/Better_ContentWarning/issues">issue</a></code></b> on the [**GitHub repository**](https://github.com/Adler-real/Better_ContentWarning) of [Better Content Warning](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/).
