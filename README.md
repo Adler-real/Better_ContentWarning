@@ -8,9 +8,9 @@
 
 <!-- </br>🎉️ Special thanks to everyone who downloaded this modpack! 🧡️🧡️ -->
 
-</br>🎉️ We are now the most downloaded modpack on Thunderstore! 🎉️ thanks you all 🧡️ for downloading it! 🧡️
+</br>🎉️ We are now the most downloaded modpack on Thunderstore! 🎉️ thank you all for downloading it! 🧡️🧡️
 
-### v1.5.2 is Out on Thunderstore!
+### v1.5.3 is Out!
 
 ### Features:
 
@@ -39,12 +39,12 @@
 
 <ul>
 <li>
-<details open>
+<details>
 <summary>Better & Longer Sprinting 🏃️! ᐁ</summary>
 <ul>
-<li><code>Sprint Speed</code> is now <code>2.2</code> <small>[Content Warning's Default is <code>2</code>]</small></li>
-<li><code>Max Stamina</code> is now <code>13</code> <small>[Content Warning's Default is <code>10</code>]</small></li>
-<li><code>Stamina Regeneration</code> is now <code>1.3</code> <small>[Content Warning's Default is <code>1</code>]</small></li>
+<li><code>SprintMultiplyer</code> is now <code>2.2</code> <small>[Content Warning's Default is <code>2 (i think)</code>]</small></li>
+<li><code>MaxStamina</code> is now <code>13</code> <small>[Content Warning's Default is <code>10 (i think)</code>]</small></li>
+<li><code>StaminaRegenRate</code> is now <code>0.65</code> <small>[its a little bit higher then Content Warning's Default</code>]</small></li>
 </ul>
 </details>
 </li>
