@@ -1,5 +1,51 @@
 # Changelog
 
+## V1.5.3 <sub> |28.04.2024|</sub>
+
+#### Updated:
+
+- Updated Mod [LongRangeReload](https://thunderstore.io/c/content-warning/p/Greft/LongRangeReload/) from `v1.1.2` to `v1.2.0`
+
+- Updated Mod [MyceliumNetworking](https://thunderstore.io/c/content-warning/p/RugbugRedfern/MyceliumNetworking/) from `v1.0.11` to `v1.0.12`
+
+#### Removed:
+
+- Temporarily removed mod [ShopTweaks](https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/), Because issues
+
+## V1.5.2 <sub> |21.04.2024|</sub>
+
+#### Updated:
+
+- Updated Mod [ContentSettings](https://thunderstore.io/c/content-warning/p/CommanderCat101/ContentSettings/) from `1.1.0` to `1.2.2`
+
+#### Configs:
+
+- Recreated all Configs
+
+<ul>
+<li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/TrioGhost/MoreSpookerVideo/">MoreSpookerVideo</a> Configs</summary>
+<ul><li><code>CameraPrice</code> is now default <code>100 <i><small>(Default Value)</small></i></code> Because the <code>CameraPrice</code> Config doesnt work</li></ul>
+</details>
+</li>
+</ul>
+
+<ul>
+<li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/Skytrymotion/Dont_Trip/">Dont Trip</a> Configs</summary>
+<ul><li>Changed <code>Drop Item</code> from <code>true <i><small>(Default Value)</small></i></code> to <code>false</code></li></ul>
+</details>
+</li>
+</ul>
+
+#### Misc:
+
+- Updated `README.md`
+
+- Updated `icon.png`
+
 ## V1.5.1 <sub> |20.04.2024|</sub>
 
 #### Updated:
