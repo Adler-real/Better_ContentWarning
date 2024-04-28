@@ -10,7 +10,7 @@
 
 </br>🎉️ We are now the most downloaded modpack on Thunderstore! 🎉️ thanks you all 🧡️ for downloading it! 🧡️
 
-### v1.5.3 is Out!
+### v1.5.2 is Out on Thunderstore!
 
 ### Features:
 
