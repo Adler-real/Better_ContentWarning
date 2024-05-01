@@ -10,7 +10,9 @@
 
 </br>🎉️ We are now the most downloaded modpack on Thunderstore! 🎉️ thank you all for downloading it! 🧡️🧡️
 
-### <a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/">v1.5.3 is Out!</a>
+🧡️ If you enjoy the modpack, please leave a like to show that you love it. Thank you! 🧡️
+
+### v1.5.4 is Out!
 
 ### Features:
 

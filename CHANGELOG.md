@@ -1,5 +1,21 @@
 # Changelog
 
+## V1.5.4 <sub> |01.05.2024|</sub>
+
+#### Added:
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/SFXMixerPatch/">SFXMixerPatch</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/">www_Day_Dream</a></small>
+
+#### Updated:
+
+- Updated Mod [SnoringWarning](https://thunderstore.io/c/content-warning/p/cyclozarin/SnoringWarning/) from `v1.0.0` to `v1.1.1`
+
+#### Misc:
+
+- Updated `README.md`
+
+- Updated `icon.png`
+
 ## V1.5.3 <sub> |28.04.2024|</sub>
 
 #### Updated:
@@ -71,10 +87,6 @@
 
 ## V1.5.0 <sub> |20.04.2024|</sub>
 
-#### Updated:
-
-- Updated Mod [MakeMeRagdoll](https://thunderstore.io/c/content-warning/p/RamuneNeptune/MakeMeRagdoll/) from `v1.1.1` to `v1.1.2`
-
 #### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/cyclozarin/SnoringWarning/">SnoringWarning</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/cyclozarin/">cyclozarin</a></small>
@@ -84,6 +96,10 @@
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/Greft/LongRangeReload/">LongRangeReload</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Greft/">Greft</a></small>
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/">ShopTweaks</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/ViViKo/">ViViKo</a></small>
+
+#### Updated:
+
+- Updated Mod [MakeMeRagdoll](https://thunderstore.io/c/content-warning/p/RamuneNeptune/MakeMeRagdoll/) from `v1.1.1` to `v1.1.2`
 
 #### Misc:
 
