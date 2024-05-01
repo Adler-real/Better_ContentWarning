@@ -108,3 +108,7 @@
 <a href="https://github.com/Adler-real/Better_ContentWarning/issues/new"> <img alt="Create a Issues on GitHub" src="https://img.shields.io/github/issues/Adler-real/Better_ContentWarning?style=flat-square&logo=github&logoColor=white&labelColor=black&color=gray"></a>
 
 For <b>Questions</b>, <b>Feedback</b>, <b>Suggestions</b> or <b>Issues</b> feel free to open an <b><code><a href="https://github.com/Adler-real/Better_ContentWarning/issues">issue</a></code></b> on the [**GitHub repository**](https://github.com/Adler-real/Better_ContentWarning) of [Better Content Warning](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/).
+
+### Todo:
+
+You can find the current plans for the modpack here -> https://github.com/users/Adler-real/projects/2/views/1
