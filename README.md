@@ -12,7 +12,7 @@
 
 🧡️ If you enjoy the modpack, please leave a like to show that you love it. Thank you! 🧡️
 
-### v1.5.4 is Out!
+### [v2.0.0 is Out on Thunderstore!!](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
 
 ### Features:
 
