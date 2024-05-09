@@ -4,8 +4,7 @@
 <img src="https://raw.githubusercontent.com/Adler-real/uploadedfiles/main/Content_Warning/Modpacks/Better_ContentWarning/banner.png" alt="Banner">
 </a>
 
-<br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/"><img alt="Thunderstore Downloads" src="https://img.shields.io/thunderstore/dt/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray"></a> <a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/"><img alt="Thunderstore Version" src="https://img.shields.io/thunderstore/v/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray"></a> <a href="https://github.com/Adler-real/Better_ContentWarning"><img alt="GitHub Release" src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white&color=black
-"></a>
+<br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/"><img alt="Thunderstore Downloads" src="https://img.shields.io/thunderstore/dt/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray"></a> <a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/"><img alt="Thunderstore Version" src="https://img.shields.io/thunderstore/v/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray"></a> <a href="https://github.com/Adler-real/Better_ContentWarning"><img alt="GitHub Release" src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white&color=black"></a>
 
 <!-- </br>🎉️ Thanks to everyone who downloaded this modpack! 🧡️🧡️ -->
 
