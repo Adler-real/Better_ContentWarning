@@ -4,19 +4,22 @@
 <img src="https://raw.githubusercontent.com/Adler-real/uploadedfiles/main/Content_Warning/Modpacks/Better_ContentWarning/banner.png" alt="Banner">
 </a>
 
-<br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/"><img alt="Thunderstore Downloads" src="https://img.shields.io/thunderstore/dt/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray"></a> <a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/"><img alt="Thunderstore Version" src="https://img.shields.io/thunderstore/v/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray"></a> <a href="https://github.com/Adler-real/Better_ContentWarning"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Adler-real/Better_ContentWarning?include_prereleases&sort=date&display_name=release&style=for-the-badge&logo=github&logoColor=white&label=GitHub&labelColor=black&color=gray"></a>
+<br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/"><img alt="Thunderstore Downloads" src="https://img.shields.io/thunderstore/dt/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray"></a> <a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/"><img alt="Thunderstore Version" src="https://img.shields.io/thunderstore/v/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray"></a> <a href="https://github.com/Adler-real/Better_ContentWarning"><img alt="GitHub Release" src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white&color=black
+"></a>
 
-<!-- </br>🎉️ Special thanks to everyone who downloaded this modpack! 🧡️🧡️ -->
+<!-- </br>🎉️ Thanks to everyone who downloaded this modpack! 🧡️🧡️ -->
 
 </br>🎉️ We are now the most downloaded modpack on Thunderstore! 🎉️ thank you all for downloading it! 🧡️🧡️
 
 🧡️ If you enjoy the modpack, please leave a like to show that you love it. Thank you! 🧡️
 
-### [v2.0.0 is Out on Thunderstore!!](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
+### v2.1.0 is Out!
 
 ### Features:
 
 - Custom Configs 📄️!
+
+- The maximum number of players in the lobby is now 8! (Changable in [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) Config file)
 
 - More Settings and More Graphic Settings ⚙️!
 
@@ -28,16 +31,7 @@
   
   - <b>Note</b>: if you want your face color to be the same as the suit, then press `F1`, click on `MoreColors` and select `disabled` to `enabled`
 
-<ul>
-<li>
-<details open>
-<summary>More Customization for your Face 🎨️! ᐁ</summary>
-<ul>
-<li>Unicode support for player names, infinite Character length, pasting from clipboard and more text sizes!</li>
-</ul>
-</details>
-</li>
-</ul>
+- More Customization for your Face 🎨️!
 
 <ul>
 <li>
@@ -62,6 +56,8 @@
 
 - More Items 🛍️!
 
+- You can now find Speed Potion, Health Potion, Oxygen Potion and Jump Boost Potion.
+
 - Buy a Boombox with Music and Meme Sounds 🔊️!
 
 - You have now a Crossair!
@@ -76,21 +72,7 @@
 
 - And more! ...
 
-### How to Install:
-
-<details>
-<summary>SHOW ᐁ</summary>
-<ul><li>Comming</li></ul>
-</details>
-
 ### Changes (Edited Configs):
-
-<details>
-<summary>SHOW ᐁ</summary>
-<ul><li>Comming</li></ul>
-</details>
-
-### Mod List:
 
 <details>
 <summary>SHOW ᐁ</summary>
@@ -101,14 +83,14 @@
 
 <ul> <blockquote><strong>This modpack may stop working due to the constant updates of the game</strong></blockquote></ul>
 
-- Nothing
+- Note: I can't test [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) 100% because I have no more than 2 friends, but it should work. If you have any issues (or have no problems), please open an issue on [GitHub](https://github.com/Adler-real/Better_ContentWarning/issues).
+
+- Please do not update FreeEmotes and ShopTweaks because the latest version does not work.
+
+- <s>Boombox may have no music, restart the game then it should work</s> should work now.
+
+- Purchased camera may not extract.
 
 ### Suggestions / Report Issues:
 
-<a href="https://github.com/Adler-real/Better_ContentWarning/issues/new"> <img alt="Create a Issues on GitHub" src="https://img.shields.io/github/issues/Adler-real/Better_ContentWarning?style=flat-square&logo=github&logoColor=white&labelColor=black&color=gray"></a>
-
-For <b>Questions</b>, <b>Feedback</b>, <b>Suggestions</b> or <b>Issues</b> feel free to open an <b><code><a href="https://github.com/Adler-real/Better_ContentWarning/issues">issue</a></code></b> on the [**GitHub repository**](https://github.com/Adler-real/Better_ContentWarning) of [Better Content Warning](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/).
-
-### Todo:
-
-You can find the current plans for the modpack here -> https://github.com/users/Adler-real/projects/2/views/1
+- For <b>Questions</b>, <b>Feedback</b>, <b>Suggestions</b> or <b>Issues</b> feel free to open an <b><code><a href="https://github.com/Adler-real/Better_ContentWarning/issues">issue</a></code></b> on the [**GitHub repository**](https://github.com/Adler-real/Better_ContentWarning) of [Better ContentWarning](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/).

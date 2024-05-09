@@ -1,5 +1,98 @@
 # Changelog
 
+- Note! Create a new (blank) profile on every update so that everything works correctly. (because r2modman (and Thunderstore, I think) don't delete thinks on a Update)
+
+## V2.1.0 <sub> |08.05.2024|</sub>
+
+- Note: I can't test [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) 100% because I have no more than 2 friends, but it should work. If you have any issues (or have no problems), please open an issue on [GitHub](https://github.com/Adler-real/Better_ContentWarning/issues).
+
+#### Added:
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/">Virality</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/">MaxWasUnavailable</a></small>
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/ViViKo/MoreSounds/">MoreSounds</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/ViViKo/">ViViKo</a></small>
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/SFXMixerPatch/">SFXMixerPatch</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/">www_Day_Dream</a></small>, should work now
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/">CessilCellsCeaChells</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/">www_Day_Dream</a></small> Because Dependency of <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/SFXMixerPatch/">SFXMixerPatch</a>
+
+#### Updated:
+
+- Updated Mod [Boombox](https://thunderstore.io/c/content-warning/p/hyydsz/Boombox/) from `v1.1.3` to `v1.1.4`
+
+- Updated Mod [BoomboxMusicShare](https://thunderstore.io/c/content-warning/p/LimeSkillZ/BoomboxMusicShare/) from `v2.1.0` to `v2.2.0`
+
+#### Configs:
+
+<ul>
+<li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/">Virality</a> Configs</summary>
+<ul><li>Changed <code>MaxPlayers</code> from <code>12 <i><small>(Default Value)</small></i></code> to <code>8</code></li></ul>
+</details>
+</li>
+</ul>
+
+#### Misc:
+
+- Updated `README.md`
+- Updated `CHANGELOG.md`
+
+## V2.0.1 <sub> |08.05.2024|</sub>
+
+- Reupload, Because Problems
+
+## V2.0.0 <sub> |08.05.2024|</sub>
+
+- Works with the latest Content Warning Update. If you have any problems, please report them [here](https://github.com/Adler-real/Better_ContentWarning/issues)
+
+#### Added:
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/">ShopTweaks</a> Version 1.0.1 <small>by <a href="https://thunderstore.io/c/content-warning/p/ViViKo/">ViViKo</a></small>
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/hyydsz/EnergyBottle/">EnergyBottle</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/hyydsz/">hyydsz</a></small>
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/Electric131/CameraLocator/">CameraLocator</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Electric131/">Electric131</a></small>
+
+#### Updated:
+
+> <b> Please do not update FreeEmotes and ShopTweaks because the latest version does not work. </b>
+
+- Updated Mod [AutoHookGenPatcher](https://thunderstore.io/c/content-warning/p/Hamunii/AutoHookGenPatcher/) from `v1.0.3` to `v1.0.4`
+
+- Updated Mod [Boombox](https://thunderstore.io/c/content-warning/p/hyydsz/Boombox/) from `v1.1.2` to `v1.1.3`
+
+- Updated Mod [Flashcard](https://thunderstore.io/c/content-warning/p/loaforc/Flashcard/) from `v0.3.2` to `v0.3.3`
+
+- Updated Mod [MoreColors](https://thunderstore.io/c/content-warning/p/ViViKo/MoreColors/) from `v1.4.2` to `v1.5.0`
+
+- Updated Mod [Shuv](https://thunderstore.io/c/content-warning/p/www_Day_Dream/Shuv/) from `v1.0.9` to `v1.1.0`
+
+- Updated Mod [ExtraInventorySlot](https://thunderstore.io/c/content-warning/p/nickklmao/ExtraInventorySlot/) from `v1.0.2` to `v1.0.3`
+
+#### Removed:
+
+- Removed Mod [Extended Player Names](https://thunderstore.io/c/content-warning/p/CWModder/Extended_Player_Names/), Because Currently not working
+
+- Removed Mod [SFXMixerPatch](https://thunderstore.io/c/content-warning/p/www_Day_Dream/SFXMixerPatch/)
+
+- Removed Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/)
+
+#### Configs:
+
+<ul>
+<li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/hyydsz/EnergyBottle/">EnergyBottle</a> Configs</summary>
+<ul><li>Changed <code>SpawnRarity</code> from <code>1 <i><small>(Default Value)</small></i></code> to <code>0.25</code></li></ul>
+</details>
+</li>
+</ul>
+
+#### Misc:
+
+- Updated `README.md`
+
 ## V1.5.4 <sub> |01.05.2024|</sub>
 
 #### Added:
