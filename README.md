@@ -12,7 +12,7 @@
 
 🧡️ If you enjoy the modpack, please leave a like to show that you love it. Thank you! 🧡️
 
-### [v2.2.2 is Out on Thunderstore!](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
+### v2.2.2 is Out!
 
 ### Features:
 
@@ -47,7 +47,7 @@
 
 - Better Oxygen 🎈️!
   
-  - Oxygen refill in the Driving Bell 🎈️ 🔔️ 
+  - Oxygen refill in the Diving Bell 🎈️ 🔔️ 
 
 - You have a Emote Wheel 😄️! <small>(also Emotes are Free in the Store 🛍️)</small>
   
@@ -67,7 +67,9 @@
   
   - Please set in the ingame settings under `Modded` the option `Shove Enemies` to `No`
 
-- You can Ragdoll by Holding `TAB`
+- You can Ragdoll by Holding `ALT`
+
+- Switch between Third person and First person with `TAB`
 
 - And more! ...
 
@@ -82,11 +84,9 @@
 
 <ul> <blockquote><strong>This modpack may stop working due to the constant updates of the game</strong></blockquote></ul>
 
-- Note: I can't test [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) 100% because I have no more than 2 friends, but it should work. If you have any issues (or have no problems), please open an issue on [GitHub](https://github.com/Adler-real/Better_ContentWarning/issues).
+- Note: I can't test [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) 100%, but it should work. If you have any issues (or have no problems), please open an issue on [GitHub](https://github.com/Adler-real/Better_ContentWarning/issues).
 
-- Please do not update FreeEmotes and ShopTweaks because the latest version does not work.
-
-- <s>Boombox may have no music, restart the game then it should work</s> should work now.
+- Please do not update [ShopTweaks](https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/) because the latest version does not work.
 
 - Purchased camera may not extract.
 

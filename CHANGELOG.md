@@ -2,7 +2,110 @@
 
 - Note! Create a new (blank) profile on every update so that everything works correctly. (because r2modman (and Thunderstore, I think) don't delete thinks on a Update)
 
-## V2.1.0 <sub> |08.05.2024|</sub>
+- Please do not update [ShopTweaks](https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/) because the latest version does not work.
+
+## V2.2.3 <sub> |06.06.2024|</sub>
+
+I'm alive!
+
+Sorry for the really late update.
+
+#### Added:
+
+- Added Mod <a href="MODLink">MODName</a> <small>by <a href="USERLink">USERname</a></small>
+
+#### Updated:
+
+- Updated Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/) from `v0.3.4` to `v0.3.5`
+
+- Updated Mod [SillyItems](https://thunderstore.io/c/content-warning/p/Arargd/SillyItems/) from `v0.4.0` to `v0.5.0`
+
+- Updated Mod [BoomboxMusicShare](https://thunderstore.io/c/content-warning/p/LimeSkillZ/BoomboxMusicShare/) from `v2.2.0` to `v2.5.0`
+
+- Updated Mod [MoreColors](https://thunderstore.io/c/content-warning/p/ViViKo/MoreColors/) from `v1.5.0` to `v1.5.1`
+
+## V2.2.2 <sub> |19.05.2024|</sub>
+
+#### Updated:
+
+- Updated Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/) from `v0.3.1` to `v0.3.4`
+
+- Updated Mod [FreeEmotes](https://thunderstore.io/c/content-warning/p/ViViKo/FreeEmotes/) from `v1.0.0` to `v1.1.1`
+
+#### Replaced:
+
+- Replaced Mod <a href="https://thunderstore.io/c/content-warning/p/Project_Renegade/ThirdPerson_by_Holden/">ThirdPerson by Holden</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Project_Renegade/">Project Renegade</a></small> with <a href="https://thunderstore.io/c/content-warning/p/Holden/Holdens_Third_Person_Mod/">Holdens Third Person Mod</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Holden/">Holden</a></small>
+
+#### Misc:
+
+- Updated `CHANGELOG.md`
+
+## V2.2.1 <sub> |18.05.2024|</sub>
+
+#### Updated:
+
+- Updated Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/) from `v0.2.7` to `v0.3.1`
+
+- Updated Mod [Kill Button](https://thunderstore.io/c/content-warning/p/ElectricSteve/Kill_Button/) from `v1.0.0` to `v1.1.0`
+
+## V2.2.0 <sub> |17.05.2024|</sub>
+
+- Please do not update ShopTweaks because the latest version does not work.
+
+#### Added:
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/ElectricSteve/Kill_Button/">Kill Button</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/ElectricSteve/">ElectricSteve</a></small>
+
+	- You can kill yourself (ingame!) with `K`
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/Project_Renegade/ThirdPerson_by_Holden/">ThirdPerson by Holden</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Project_Renegade/">Project_Renegade</a></small>
+
+#### Updated:
+
+- Updated Mod [MyceliumNetworking](https://thunderstore.io/c/content-warning/p/RugbugRedfern/MyceliumNetworking/) from `v1.0.13` to `v1.0.14`
+
+- Updated Mod [SillyItems](https://thunderstore.io/c/content-warning/p/Arargd/SillyItems/) from `v0.3.0` to `v0.4.0`
+
+#### Removed:
+
+- Removed Mod [MoreSettings](https://thunderstore.io/c/content-warning/p/Jasson9/MoreSettings/) ([Github link](https://github.com/Jasson9/ContentWarning-MoreSettings)), because it no longer exists on Thunderstore.
+
+#### Configs:
+
+<ul> <li>
+<details open>
+<summary>Changed <a href="https://thunderstore.io/c/content-warning/p/RamuneNeptune/MakeMeRagdoll/">MakeMeRagdoll</a> Configs</summary>
+Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>LeftAlt</code>
+</details>
+</li> </ul>
+
+#### Misc:
+
+- Updated `README.md`
+
+## V2.1.2 <sub> |16.05.2024|</sub>
+
+- Note: I can't test [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) 100%, but it should work. If you have any issues (or have no problems), please open an issue on [GitHub](https://github.com/Adler-real/Better_ContentWarning/issues).
+
+#### Updated:
+
+- Updated Mod [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) from `v1.3.0` to `v1.4.0`
+
+#### Misc:
+
+- Updated `README.md`
+
+## V2.1.1 <sub> |14.05.2024|</sub>
+
+#### Updated:
+
+- Updated Mod [Boombox](https://thunderstore.io/c/content-warning/p/hyydsz/Boombox/) from `v1.1.4` to `v1.1.5`
+
+- Updated Mod [MyceliumNetworking](https://thunderstore.io/c/content-warning/p/RugbugRedfern/MyceliumNetworking/) from `v1.0.12` to `v1.0.13`
+
+- Updated Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/) from `v0.2.0` to `v0.2.7`
+
+## V2.1.0 <sub> |09.05.2024|</sub>
 
 - Note: I can't test [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) 100% because I have no more than 2 friends, but it should work. If you have any issues (or have no problems), please open an issue on [GitHub](https://github.com/Adler-real/Better_ContentWarning/issues).
 
@@ -36,6 +139,7 @@
 #### Misc:
 
 - Updated `README.md`
+
 - Updated `CHANGELOG.md`
 
 ## V2.0.1 <sub> |08.05.2024|</sub>
@@ -56,7 +160,7 @@
 
 #### Updated:
 
-> <b> Please do not update FreeEmotes and ShopTweaks because the latest version does not work. </b>
+> <b> Please do not update ShopTweaks because the latest version does not work. </b>
 
 - Updated Mod [AutoHookGenPatcher](https://thunderstore.io/c/content-warning/p/Hamunii/AutoHookGenPatcher/) from `v1.0.3` to `v1.0.4`
 
