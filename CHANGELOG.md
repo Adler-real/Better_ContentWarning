@@ -2,7 +2,7 @@
 
 - Note! Create a new (blank) profile on every update so that everything works correctly. (because r2modman (and Thunderstore, I think) don't delete mods/configs on a Update)
 
-## v2.2.4 (Patch) <small>06.06.2024</small>
+## v2.2.4 (Patch) <small>28.06.2024</small>
 
 Fixed camera no longer extract anymore. Thanks to [friskin69](https://github.com/friskin69) for letting me know about the issue!
 
