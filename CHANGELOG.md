@@ -1,10 +1,28 @@
 # Changelog
 
-- Note! Create a new (blank) profile on every update so that everything works correctly. (because r2modman (and Thunderstore, I think) don't delete thinks on a Update)
+- Note! Create a new (blank) profile on every update so that everything works correctly. (because r2modman (and Thunderstore, I think) don't delete mods/configs on a Update)
 
-- Please do not update [ShopTweaks](https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/) because the latest version does not work.
+## v2.2.4 (Patch) <small>06.06.2024</small>
 
-## V2.2.3 <sub> |06.06.2024|</sub>
+Fixed camera no longer extract anymore. Thanks to [friskin69](https://github.com/friskin69) for letting me know about the issue!
+
+#### Updated:
+
+- Updated Mod [ShopTweaks](https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/) from `v1.0.1` to `v1.1.3`
+
+- Updated Mod [MoreSounds](https://thunderstore.io/c/content-warning/p/ViViKo/MoreSounds/) from `v1.0.2` to `v1.1.0`
+
+#### Removed:
+
+- Temporarily Removed Mod [Flashcard](https://thunderstore.io/c/content-warning/p/loaforc/Flashcard/), Because camera no longer extracting video.
+
+#### Misc:
+
+- Updated `README.md`
+
+- Added File `FAQ.md`
+
+## v2.2.3 <small>06.06.2024</small>
 
 I'm alive!
 

@@ -12,7 +12,7 @@
 
 🧡️ If you enjoy the modpack, please leave a like to show that you love it. Thank you! 🧡️
 
-### [v2.2.3 is Out on Thunderstore!](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
+### v2.2.4 is Out!
 
 ### Features:
 
@@ -24,7 +24,7 @@
 
 - You can now Buy Cameras 🎥️!
 
-- You can now film 2 Minutes with Your Cam 🎥️!
+- ~~You can now film 2 Minutes with Your Cam 🎥️!~~
 
 - More Colors for your Face 🎨️!
   
@@ -86,9 +86,7 @@
 
 - Note: I can't test [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) 100%, but it should work. If you have any issues (or have no problems), please open an issue on [GitHub](https://github.com/Adler-real/Better_ContentWarning/issues).
 
-- Please do not update [ShopTweaks](https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/) because the latest version does not work.
-
-- Purchased camera may not extract.
+- Maybe fixed: Purchased camera may not extract.
 
 ### Suggestions / Report Issues:
 
