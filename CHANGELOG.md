@@ -2,7 +2,35 @@
 
 - Note! Create a new (blank) profile on every update so that everything works correctly. (because r2modman (and Thunderstore, I think) don't delete mods/configs on a Update)
 
-## v2.2.4 (Patch) <sub><sup>[28.06.2024]</sup></sub>
+## v2.2.5/2.2.6 (Patch) <small>19.08.2024 </small>
+
+Hey everyone,
+
+If you encounter any bugs or issues, please let me know here: [https://github.com/Adler-real/Better_ContentWarning/issues]. If you have sometimes the problem that nothing appears on the TV (when you insert the disc into the TV), please leave a comment on this issue: [https://github.com/Adler-real/Better_ContentWarning/issues/7]. I haven't experienced this problem myself, so I would like to know if others are still facing it.
+
+This update includes one mod update. unfortunately, there are no new additions. | At the moment, I don't feel very motivated to update this modpack (weekly), as there are no new (good) mods available, And the game isn't receiving any major updates right now/at the moment.
+
+For more information on ContentWarning updates, check out these Twitter posts:
+[https://x.com/LandfallGames/status/1817893667849523664]
+[https://x.com/LandfallGames/status/1817893670076477910].
+
+Thank you for downloading my modpack! Your support means a lot.
+
+Best regards!
+
+#### Updated:
+
+- Updated Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/) from `v0.3.5` to `v0.3.6`
+
+#### Misc:
+
+- Updated `README.md`
+
+- Updated `icon.png`
+
+- Updated Modpack Discription (`manifest.json`)
+
+## v2.2.4 (Patch) <small>06.06.2024</small>
 
 Fixed camera no longer extract anymore. Thanks to [friskin69](https://github.com/friskin69) for letting me know about the issue!
 
@@ -22,7 +50,7 @@ Fixed camera no longer extract anymore. Thanks to [friskin69](https://github.com
 
 - Added File `FAQ.md`
 
-## v2.2.3 <sub><sup>[06.06.2024]</sup></sub>
+## v2.2.3 <small>06.06.2024</small>
 
 I'm alive!
 
