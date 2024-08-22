@@ -1,8 +1,26 @@
 # Changelog
 
-- Note! Create a new (blank) profile on every update so that everything works correctly. (because r2modman (and Thunderstore, I think) don't delete mods/configs on a Update)
+- Create a new (blank) profile on every update so that everything works correctly. (because r2modman (and Thunderstore, I think) don't delete mods/configs on a Update)
 
-## v2.2.5/2.2.6 (Patch) <small>19.08.2024 </small>
+## v2.2.7 - 2024-08-22
+
+### Improvements
+
+- Changelog now based on [Keep a changelog](https://keepachangelog.com/)
+
+- Improved `README.md`
+
+### [Unstable Releases](https://github.com/Adler-real/Better_ContentWarning/releases)
+
+- I plan to release beta versions on GitHub so the community(you) can test them and provide feedback.
+
+### Misc:
+
+- Updated `CHANGELOG.md`
+
+- Updated `icon.png`
+
+## v2.2.5/2.2.6 - 2024-08-19
 
 Hey everyone,
 
@@ -18,11 +36,11 @@ Thank you for downloading my modpack! Your support means a lot.
 
 Best regards!
 
-#### Updated:
+### Updated:
 
 - Updated Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/) from `v0.3.5` to `v0.3.6`
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
@@ -30,37 +48,41 @@ Best regards!
 
 - Updated Modpack Discription (`manifest.json`)
 
-## v2.2.4 (Patch) <small>06.06.2024</small>
 
-Fixed camera no longer extract anymore. Thanks to [friskin69](https://github.com/friskin69) for letting me know about the issue!
+## v2.2.4 - 2024-06-06
 
-#### Updated:
+### Fixed:
+
+- Camera was no longer extracting. Thanks to [friskin69](https://github.com/friskin69) for letting me know!
+
+### Removed:
+
+- Temporarily Removed Mod [Flashcard](https://thunderstore.io/c/content-warning/p/loaforc/Flashcard/) Because Camera was no longer extracting
+
+### Updated:
 
 - Updated Mod [ShopTweaks](https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/) from `v1.0.1` to `v1.1.3`
 
 - Updated Mod [MoreSounds](https://thunderstore.io/c/content-warning/p/ViViKo/MoreSounds/) from `v1.0.2` to `v1.1.0`
 
-#### Removed:
-
-- Temporarily Removed Mod [Flashcard](https://thunderstore.io/c/content-warning/p/loaforc/Flashcard/), Because camera no longer extracting video.
-
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
 - Added File `FAQ.md`
 
-## v2.2.3 <small>06.06.2024</small>
+
+## v2.2.3 - 2024-06-06
 
 I'm alive!
 
 Sorry for the really late update.
 
-#### Added:
+### Added:
 
 - Added Mod <a href="MODLink">MODName</a> <small>by <a href="USERLink">USERname</a></small>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/) from `v0.3.4` to `v0.3.5`
 
@@ -70,35 +92,35 @@ Sorry for the really late update.
 
 - Updated Mod [MoreColors](https://thunderstore.io/c/content-warning/p/ViViKo/MoreColors/) from `v1.5.0` to `v1.5.1`
 
-## V2.2.2 <sub> |19.05.2024|</sub>
+## v2.2.2 - 2024-05-19
 
-#### Updated:
+### Updated:
 
 - Updated Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/) from `v0.3.1` to `v0.3.4`
 
 - Updated Mod [FreeEmotes](https://thunderstore.io/c/content-warning/p/ViViKo/FreeEmotes/) from `v1.0.0` to `v1.1.1`
 
-#### Replaced:
+### Replaced:
 
 - Replaced Mod <a href="https://thunderstore.io/c/content-warning/p/Project_Renegade/ThirdPerson_by_Holden/">ThirdPerson by Holden</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Project_Renegade/">Project Renegade</a></small> with <a href="https://thunderstore.io/c/content-warning/p/Holden/Holdens_Third_Person_Mod/">Holdens Third Person Mod</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Holden/">Holden</a></small>
 
-#### Misc:
+### Misc:
 
 - Updated `CHANGELOG.md`
 
-## V2.2.1 <sub> |18.05.2024|</sub>
+## v2.2.1 - 2024-05-18
 
-#### Updated:
+### Updated:
 
 - Updated Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/) from `v0.2.7` to `v0.3.1`
 
 - Updated Mod [Kill Button](https://thunderstore.io/c/content-warning/p/ElectricSteve/Kill_Button/) from `v1.0.0` to `v1.1.0`
 
-## V2.2.0 <sub> |17.05.2024|</sub>
+## v2.2.0 - 2024-05-17
 
 - Please do not update ShopTweaks because the latest version does not work.
 
-#### Added:
+### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/ElectricSteve/Kill_Button/">Kill Button</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/ElectricSteve/">ElectricSteve</a></small>
 
@@ -106,17 +128,17 @@ Sorry for the really late update.
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/Project_Renegade/ThirdPerson_by_Holden/">ThirdPerson by Holden</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Project_Renegade/">Project_Renegade</a></small>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [MyceliumNetworking](https://thunderstore.io/c/content-warning/p/RugbugRedfern/MyceliumNetworking/) from `v1.0.13` to `v1.0.14`
 
 - Updated Mod [SillyItems](https://thunderstore.io/c/content-warning/p/Arargd/SillyItems/) from `v0.3.0` to `v0.4.0`
 
-#### Removed:
+### Removed:
 
 - Removed Mod [MoreSettings](https://thunderstore.io/c/content-warning/p/Jasson9/MoreSettings/) ([Github link](https://github.com/Jasson9/ContentWarning-MoreSettings)), because it no longer exists on Thunderstore.
 
-#### Configs:
+### Configs:
 
 <ul> <li>
 <details open>
@@ -125,25 +147,25 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 </details>
 </li> </ul>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
-## V2.1.2 <sub> |16.05.2024|</sub>
+## v2.1.2 - 2024-05-16
 
 - Note: I can't test [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) 100%, but it should work. If you have any issues (or have no problems), please open an issue on [GitHub](https://github.com/Adler-real/Better_ContentWarning/issues).
 
-#### Updated:
+### Updated:
 
 - Updated Mod [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) from `v1.3.0` to `v1.4.0`
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
-## V2.1.1 <sub> |14.05.2024|</sub>
+## v2.1.1 - 2024-05-14
 
-#### Updated:
+### Updated:
 
 - Updated Mod [Boombox](https://thunderstore.io/c/content-warning/p/hyydsz/Boombox/) from `v1.1.4` to `v1.1.5`
 
@@ -151,11 +173,11 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/) from `v0.2.0` to `v0.2.7`
 
-## V2.1.0 <sub> |09.05.2024|</sub>
+## v2.1.0 - 2024-05-09
 
 - Note: I can't test [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) 100% because I have no more than 2 friends, but it should work. If you have any issues (or have no problems), please open an issue on [GitHub](https://github.com/Adler-real/Better_ContentWarning/issues).
 
-#### Added:
+### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/">Virality</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/">MaxWasUnavailable</a></small>
 
@@ -165,13 +187,13 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/">CessilCellsCeaChells</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/">www_Day_Dream</a></small> Because Dependency of <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/SFXMixerPatch/">SFXMixerPatch</a>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [Boombox](https://thunderstore.io/c/content-warning/p/hyydsz/Boombox/) from `v1.1.3` to `v1.1.4`
 
 - Updated Mod [BoomboxMusicShare](https://thunderstore.io/c/content-warning/p/LimeSkillZ/BoomboxMusicShare/) from `v2.1.0` to `v2.2.0`
 
-#### Configs:
+### Configs:
 
 <ul>
 <li>
@@ -182,21 +204,21 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 </li>
 </ul>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
 - Updated `CHANGELOG.md`
 
-## V2.0.1 <sub> |08.05.2024|</sub>
+## v2.0.1 - 2024-05-08
 
 - Reupload, Because Problems
 
-## V2.0.0 <sub> |08.05.2024|</sub>
+## v2.0.0 - 2024-05-08
 
 - Works with the latest Content Warning Update. If you have any problems, please report them [here](https://github.com/Adler-real/Better_ContentWarning/issues)
 
-#### Added:
+### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/">ShopTweaks</a> Version 1.0.1 <small>by <a href="https://thunderstore.io/c/content-warning/p/ViViKo/">ViViKo</a></small>
 
@@ -204,7 +226,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/Electric131/CameraLocator/">CameraLocator</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Electric131/">Electric131</a></small>
 
-#### Updated:
+### Updated:
 
 > <b> Please do not update ShopTweaks because the latest version does not work. </b>
 
@@ -220,7 +242,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated Mod [ExtraInventorySlot](https://thunderstore.io/c/content-warning/p/nickklmao/ExtraInventorySlot/) from `v1.0.2` to `v1.0.3`
 
-#### Removed:
+### Removed:
 
 - Removed Mod [Extended Player Names](https://thunderstore.io/c/content-warning/p/CWModder/Extended_Player_Names/), Because Currently not working
 
@@ -228,7 +250,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Removed Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/)
 
-#### Configs:
+### Configs:
 
 <ul>
 <li>
@@ -239,45 +261,45 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 </li>
 </ul>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
-## V1.5.4 <sub> |01.05.2024|</sub>
+## v1.5.4 - 2024-05-01
 
-#### Added:
+### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/SFXMixerPatch/">SFXMixerPatch</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/">www_Day_Dream</a></small>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [SnoringWarning](https://thunderstore.io/c/content-warning/p/cyclozarin/SnoringWarning/) from `v1.0.0` to `v1.1.1`
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
 - Updated `icon.png`
 
-## V1.5.3 <sub> |28.04.2024|</sub>
+## v1.5.3 - 2024-04-28
 
-#### Updated:
+### Updated:
 
 - Updated Mod [LongRangeReload](https://thunderstore.io/c/content-warning/p/Greft/LongRangeReload/) from `v1.1.2` to `v1.2.0`
 
 - Updated Mod [MyceliumNetworking](https://thunderstore.io/c/content-warning/p/RugbugRedfern/MyceliumNetworking/) from `v1.0.11` to `v1.0.12`
 
-#### Removed:
+### Removed:
 
 - Temporarily removed mod [ShopTweaks](https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/), Because issues
 
 ## V1.5.2 <sub> |21.04.2024|</sub>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [ContentSettings](https://thunderstore.io/c/content-warning/p/CommanderCat101/ContentSettings/) from `1.1.0` to `1.2.2`
 
-#### Configs:
+### Configs:
 
 - Recreated all Configs
 
@@ -299,7 +321,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 </li>
 </ul>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
@@ -307,11 +329,11 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 ## V1.5.1 <sub> |20.04.2024|</sub>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [LongRangeReload](https://thunderstore.io/c/content-warning/p/Greft/LongRangeReload/) from `v1.0.2` to `v1.1.2`
 
-#### Configs:
+### Configs:
 
 <ul>
 <li>
@@ -322,7 +344,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 </li>
 </ul>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
@@ -330,7 +352,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 ## V1.5.0 <sub> |20.04.2024|</sub>
 
-#### Added:
+### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/cyclozarin/SnoringWarning/">SnoringWarning</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/cyclozarin/">cyclozarin</a></small>
 
@@ -340,11 +362,11 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/">ShopTweaks</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/ViViKo/">ViViKo</a></small>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [MakeMeRagdoll](https://thunderstore.io/c/content-warning/p/RamuneNeptune/MakeMeRagdoll/) from `v1.1.1` to `v1.1.2`
 
-#### Misc:
+### Misc:
 
 - Updated Modpack Discription (`manifest.json`)
 
@@ -356,11 +378,11 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Im stupid, The mod [Toggle Mute](https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/) works fine! sorry [Computery](https://thunderstore.io/c/content-warning/p/Computery/)
 
-#### Added:
+### Added:
 
 - Added Mod (Again) <a href="https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/">Toggle Mute</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Computery/">Computery</a></small>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
@@ -368,21 +390,21 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Sorry for the really late patch
 
-#### Removed:
+### Removed:
 
 - Removed mod [Toggle Mute](https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/), Because issues
 
 ## V1.4.4 <sub> |15.04.2024|</sub>
 
-#### Added:
+### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/Playboi/EmoteWheel/">EmoteWheel</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Playboi/">Playboi</a></small>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [SillyItems](https://thunderstore.io/c/content-warning/p/Arargd/SillyItems/) from `0.2.1` to `0.3.0`
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
@@ -390,17 +412,17 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Sorry for the late update
 
-#### Added:
+### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/Arargd/SillyItems/">SillyItems</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Arargd/">Arargd</a></small>
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/">Toggle Mute</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Computery/">Computery</a></small>
 
-#### Replaced:
+### Replaced:
 
 - Replaced Mod <a href="https://thunderstore.io/c/content-warning/p/stormytuna/FreeEmotes/">FreeEmotes</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/stormytuna/">stormytuna</a></small> with <a href="https://thunderstore.io/c/content-warning/p/ViViKo/FreeEmotes/">FreeEmotes</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/ViViKo/">ViViKo</a></small>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [ShopUtils](https://thunderstore.io/c/content-warning/p/hyydsz/ShopUtils/) from `1.0.7` to `1.0.8`
 
@@ -410,25 +432,25 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated Mod [Shuv](https://thunderstore.io/c/content-warning/p/www_Day_Dream/Shuv/) from `1.0.7` to `1.0.9`
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
 ## V1.4.2 <sub> |13.04.2024|</sub>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [ExtraInventorySlot](https://thunderstore.io/c/content-warning/p/nickklmao/ExtraInventorySlot/) from `1.0.1` to `1.0.2`
 
 - Updated Mod [BetterOxygen](https://thunderstore.io/c/content-warning/p/SmileHappyMods/BetterOxygen/) from `1.3.0` to `1.3.1`
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
 ## V1.4.1 <sub> |13.04.2024|</sub>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [Shuv](https://thunderstore.io/c/content-warning/p/www_Day_Dream/Shuv/) from `1.0.1` to `1.0.7`
 
@@ -436,25 +458,25 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated Mod [ContentSettings](https://thunderstore.io/c/content-warning/p/CommanderCat101/ContentSettings/) from `1.0.1` to `1.1.0`
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
 ## V1.4.0 <sub> |12.04.2024|</sub>
 
-#### Added:
+### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/nickklmao/ExitConfirmation/">ExitConfirmation</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/nickklmao/">nickklmao</a></small>
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/nickklmao/ExtraInventorySlot/">ExtraInventorySlot</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/nickklmao/">nickklmao</a></small>
 
-#### Replaced:
+### Replaced:
 
 - Replaced Mod [InfiniteOxygen](https://thunderstore.io/c/content-warning/p/teamcontentmods/InfiniteOxygen/) with <a href="https://thunderstore.io/c/content-warning/p/SmileHappyMods/BetterOxygen/">BetterOxygen</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/SmileHappyMods/">SmileHappyMods</a></small>
 
 - Replaced Mod [BetterSprint](https://thunderstore.io/c/content-warning/p/Astro/BetterSprint/) with <a href="https://thunderstore.io/c/content-warning/p/AnthonyStai/LongerSprinting/">LongerSprinting</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/AnthonyStai/">AnthonyStai</a></small>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [AutoHookGenPatcher](https://thunderstore.io/c/content-warning/p/Hamunii/AutoHookGenPatcher/) from `1.0.2` to `1.0.3`
 
@@ -468,11 +490,11 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated Mod [Shuv](https://thunderstore.io/c/content-warning/p/www_Day_Dream/Shuv/) from `0.2.3` to `1.0.1`
 
-#### Removed:
+### Removed:
 
 - Removed mod [VolumeBooster](https://thunderstore.io/c/content-warning/p/RamuneNeptune/VolumeBooster/), Because the game is already loud enough
 
-#### Config:
+### Config:
 
 - removed config [BetterSprint](https://thunderstore.io/c/content-warning/p/Astro/BetterSprint/) because mod deleted
 
@@ -497,13 +519,13 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 </li>
 </ul>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
 ## V1.3.0 <sub> |11.04.2024|</sub>
 
-#### Added:
+### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/Jasson9/MoreSettings/">MoreSettings</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Jasson9/">Jasson9</a></small>
 
@@ -534,7 +556,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 </li>
 </ul>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [Official BepInExConfigurationManager](https://thunderstore.io/c/content-warning/p/Azumatt/Official_BepInExConfigurationManager/) from `18.2.0` to `18.3.0`
 
@@ -548,19 +570,19 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated Mod [Dont Trip](https://thunderstore.io/c/content-warning/p/Skytrymotion/Dont_Trip/) from `1.2.1` to `1.3.0`
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
 - Updated `CHANGELOG.md`
 
-#### Known Issues:
+### Known Issues:
 
 - The camera price is 100, and not 65
 
 ## V1.2.4 <sub> |09.04.2024|</sub>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [Flashcard](https://thunderstore.io/c/content-warning/p/loaforc/Flashcard/) from `v0.3.1` to `v0.3.2`
 
@@ -568,7 +590,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated Mod [MyceliumNetworking](https://thunderstore.io/c/content-warning/p/RugbugRedfern/MyceliumNetworking/) from `v1.0.2` to `v1.0.7`
 
-#### Configs:
+### Configs:
 
 <ul>
 <li>
@@ -579,23 +601,23 @@ Changed <code>Activate ragdoll keybind</code> from <code>BackQuote</code> to <co
 </li>
 </ul>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
 ## V1.2.3 <sub> |08.04.2024|</sub>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
 ## V1.2.2 <sub> |08.04.2024|</sub>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [CWMouseWheel](https://thunderstore.io/c/content-warning/p/zatrit/CWMouseWheel/) from `1.0.19` to `1.0.20`
 
-#### Configs:
+### Configs:
 
 <ul>
 <li>
@@ -606,7 +628,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 </li>
 </ul>
 
-#### Misc:
+### Misc:
 
 - Disabled Mod [CWMouseWheel](https://thunderstore.io/c/content-warning/p/zatrit/CWMouseWheel/)
   
@@ -622,7 +644,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 
 ## V1.2.1 <sub> |08.04.2024|</sub>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [DetourContext Dispose Fix](https://thunderstore.io/c/content-warning/p/Hamunii/DetourContext_Dispose_Fix/) from `v1.0.2` to `v1.1.3`
 
@@ -636,7 +658,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 
 - Updated Mod [MyceliumNetworking](https://thunderstore.io/c/content-warning/p/RugbugRedfern/MyceliumNetworking/) from `v1.0.1` to `v1.0.2`
 
-#### Configs:
+### Configs:
 
 - Reloaded/Updated All Configs
 
@@ -650,7 +672,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 </li>
 </ul>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 
@@ -658,9 +680,9 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 
 ## V1.2.0 <sub> |07.04.2024|</sub>
 
-#### Big Update!
+### Big Update!
 
-#### Added:
+### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/ViViKo/BetterFaceRotation/">BetterFaceRotation</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/ViViKo/">ViViKo</a></small>
 
@@ -673,13 +695,13 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 </li>
 </ul>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [CrossHair](https://thunderstore.io/c/content-warning/p/CTWOriginals/CrossHair/) from `1.0.1` to `1.1.0`
 
 - Updated Mod [MoreColors](https://thunderstore.io/c/content-warning/p/ViViKo/MoreColors/) from `1.4.0` to `1.4.1`
 
-#### Configs:
+### Configs:
 
 <ul>
 <li>
@@ -711,7 +733,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 </li>
 </ul>
 
-#### Misc:
+### Misc:
 
 - Created a GitHub Repository for [Better Content Warning](https://github.com/Adler-real/Better_ContentWarning)
 - Updated `README.md`
@@ -719,7 +741,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 
 ## V1.1.6 <sub> |06.04.2024|</sub>
 
-#### Added:
+### Added:
 
 <ul>
 <li>
@@ -730,7 +752,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 </li>
 </ul>
 
-#### Configs:
+### Configs:
 
 <ul>
 <li>
@@ -743,7 +765,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 </li>
 </ul>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 - Updated `CHANGELOG.md`
@@ -751,7 +773,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 
 ## V1.1.5 <sub> |06.04.2024|</sub>
 
-#### Misc:
+### Misc:
 
 - Updated Modpack Discription (`manifest.json`)
 - Updated `README.md`
@@ -762,7 +784,7 @@ Again...
 
 ## V1.1.4 <sub> |06.04.2024|</sub>
 
-#### Configs:
+### Configs:
 
 <ul>
 <li>
@@ -775,7 +797,7 @@ Again...
 </li>
 </ul>
 
-#### Misc:
+### Misc:
 
 - Updated Modpack Discription (`manifest.json`)
 - Updated `README.md`
@@ -783,21 +805,21 @@ Again...
 
 ## V1.1.3 <sub> |06.04.2024|</sub>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 - Updated `icon.png`
 
 ## V1.1.2 <sub> |06.04.2024|</sub>
 
-#### Misc:
+### Misc:
 
 - Updated `README.md`
 - Removed `banner.png`
 
 ## V1.1.1 <sub> |06.04.2024|</sub>
 
-#### Updated:
+### Updated:
 
 - Updated Mod [Extended Player Names](https://thunderstore.io/c/content-warning/p/CWModder/Extended_Player_Names/) from `1.0.0` to `1.1.0`
 
@@ -805,7 +827,7 @@ Again...
 
 - Updated Mod [CWMouseWheel](https://thunderstore.io/c/content-warning/p/zatrit/CWMouseWheel/) from `1.0.14` to `1.0.19`
 
-#### Configs:
+### Configs:
 
 <ul> <li>
 <details open>
@@ -821,7 +843,7 @@ Changed <code>Invert scroll</code> from <code>false</code> to <code>true</code>
 </details>
 </li> </ul>
 
-#### Misc:
+### Misc:
 
 - Updated `CHANGELOG.md`
 - Updated `README.md`
@@ -829,17 +851,17 @@ Changed <code>Invert scroll</code> from <code>false</code> to <code>true</code>
 
 ## V1.1.0 <sub> |05.04.2024|</sub>
 
-#### Big Update!
+### Big Update!
 
-#### Replaced:
+### Replaced:
 
 - Replaced Mod [MoreCustomization](https://thunderstore.io/c/content-warning/p/DiabolicalStudios/MoreCustomization/) to [Extended Player Names](https://thunderstore.io/c/content-warning/p/CWModder/Extended_Player_Names/), Because of bugs
 
-#### Updated:
+### Updated:
 
 - Updated Mod [CWMouseWheel](https://thunderstore.io/c/content-warning/p/zatrit/CWMouseWheel/) from `1.0.8` to `1.0.14` 
 
-#### Configs:
+### Configs:
 
 <ul> <li>
 <details open>
@@ -878,11 +900,11 @@ Changed <code>Duration</code> from <code>2</code> to <code>3</code>
 </details>
 </li> </ul>
 
-#### Removed:
+### Removed:
 
 - Removed mod [PitchBlack](https://thunderstore.io/c/content-warning/p/Arargd/PitchBlack/), Because of potential bugs
 
-#### Misc:
+### Misc:
 
 - Updated `icon.png`
 - Updated `README.md`

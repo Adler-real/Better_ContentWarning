@@ -6,66 +6,52 @@
 
 <br><a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/"><img alt="Thunderstore Downloads" src="https://img.shields.io/thunderstore/dt/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray"></a> <a href="https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/"><img alt="Thunderstore Version" src="https://img.shields.io/thunderstore/v/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray"></a> <a href="https://github.com/Adler-real/Better_ContentWarning"><img alt="GitHub Release" src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white&color=black"></a>
 
-<!-- </br>🎉️ Thanks to everyone who downloaded this modpack! 🧡️🧡️ -->
+</br>🎉️ We are the most downloaded modpack on Thunderstore! 🥳 Thank you all for downloading it! 🧡️
 
-</br>🎉️ We are now the most downloaded modpack on Thunderstore! 🎉️ thank you all for downloading it! 🧡️🧡️
+⭐ If you enjoy the modpack, please leave a like to support me. Thank you! 🧡
 
-🧡️ If you enjoy the modpack, please leave a like to show that you love it. Thank you! 🧡️
-
-### [ 🔗️ Please read the Changelog](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/changelog/)
+### [🔗️ Please read the Changelog](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/changelog/)
 
 ### Features:
 
 - Custom Configs 📄️!
 
-- The maximum number of players in the lobby is now 8! (Changable in [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) Config file)
+- The maximum number of players in the lobby 👥 is 8 (Changable in [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) Config file 📄️)
 
-- More Settings and More Graphic Settings ⚙️!
+- You can Buy Cameras 🎥️
 
-- You can now Buy Cameras 🎥️!
-
-- ~~You can now film 2 Minutes with Your Cam 🎥️!~~
-
-- More Colors for your Face 🎨️!
-  
-  - <b>Note</b>: if you want your face color to be the same as the suit, then press `F1`, click on `MoreColors` and select `disabled` to `enabled`
-
-- More Customization for your Face 🎨️!
-
-<ul>
-<li>
-<details>
-<summary>Better & Longer Sprinting 🏃️! ᐁ</summary>
-<ul>
-<li><code>SprintMultiplyer</code> is now <code>2.2</code> <small>[Content Warning's Default is <code>2 (i think)</code>]</small></li>
-<li><code>MaxStamina</code> is now <code>13</code> <small>[Content Warning's Default is <code>10 (i think)</code>]</small></li>
-<li><code>StaminaRegenRate</code> is now <code>0.65</code> <small>[its a little bit higher then Content Warning's Default</code>]</small></li>
-</ul>
+<ul><li>
+<details open>
+<summary>More Colors for your Face 🎨️ ᐁ</summary>
+<blockquote><strong> If you want the color of your suit not to be the same as the face color, press <code>F1</code>, click on <code>MoreColors</code> and toggle <code>enabled</code> to <code>disabled</code></small></strong></blockquote>
 </details>
-</li>
-</ul>
+</li></ul>
 
-- Better Oxygen 🎈️!
+- More Customization for your Face 🎨️
+
+- Better & Longer Sprinting 🏃️
+
+- Better Oxygen 🎈️
   
-  - Oxygen refill in the Diving Bell 🎈️ 🔔️ 
+  - Longer Oxygen & Oxygen refill in the Diving Bell 🎈️ 🔔
 
-- You have a Emote Wheel 😄️! <small>(also Emotes are Free in the Store 🛍️)</small>
+- You have a Emote Wheel 😄️ <small>(also Emotes 😊️ are Free in the Store 🛍️)</small>
   
-  - You can Open the Emote Wheel by Pressing/Holding `C`
+  - You can Open the Emote Wheel 😀️ by Pressing/Holding `C`
 
-- More Items 🛍️!
+- More Items 🛍️
 
-- You can now find Speed Potion, Health Potion, Oxygen Potion and Jump Boost Potion.
+- You can find Speed Potion 🧪, Health Potion 🧪, Oxygen Potion 🧪, and Jump Boost Potion 🧪
 
-- Buy a Boombox with Music and Meme Sounds 🔊️!
+- Buy a Boombox 📻 with Music 🎶 and Meme Sounds 🤡️
 
-- You have now a Crossair!
+- You have a Crossair ＋
 
-- You have now 4 Inventory Slots!
+- You have 4 Inventory Slots
 
-- You can Push Your Friends by Holding `E`!
+- You can Push Your Friends by Holding `E`
   
-  - Please set in the ingame settings under `Modded` the option `Shove Enemies` to `No`
+  - ⚠️ Set in the ingame settings under `Modded` the option `Shove Enemies` to `No`
 
 - You can Ragdoll by Holding `ALT`
 
@@ -82,12 +68,12 @@
 
 ### Known Issues:
 
-<ul> <blockquote><strong>This modpack may stop working due to the constant updates of the game</strong></blockquote></ul>
+<ul><blockquote>This modpack might stop working after game updates</blockquote></ul>
 
-- Note: I can't test [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) 100%, but it should work. If you have any issues (or have no problems), please open an issue on [GitHub](https://github.com/Adler-real/Better_ContentWarning/issues).
+<ul><blockquote> I can't test <a href="https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/">Virality</a> 100%, but it should work. If you have any bugs, please open an issue on <a href="https://github.com/Adler-real/Better_ContentWarning/issues">GitHub</a>.</blockquote></ul> 
 
 - Maybe fixed: Purchased camera may not extract.
 
-### Suggestions / Report Issues:
+### [Suggestions / Report Bugs:](https://github.com/Adler-real/Better_ContentWarning/issues)
 
-- For <b>Questions</b>, <b>Feedback</b>, <b>Suggestions</b> or <b>Issues</b> feel free to open an <b><code><a href="https://github.com/Adler-real/Better_ContentWarning/issues">issue</a></code></b> on the [**GitHub repository**](https://github.com/Adler-real/Better_ContentWarning) of [Better ContentWarning](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/).
+- For questions, feedback, suggestions or bugs, feel free to <a href="https://github.com/Adler-real/Better_ContentWarning/issues/new">open an issue</a> on the Official GitHub repository
