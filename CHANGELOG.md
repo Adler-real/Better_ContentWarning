@@ -1,10 +1,86 @@
 # Changelog
 
-- Create a new (blank) profile on every update so that everything works correctly. (because r2modman (and Thunderstore, I think) don't delete mods/configs on a Update)
+- <b>Create a new (blank) profile on every update so that everything works correctly.</b> (because The Mod/Modpack Manager don't delete mods/configs on a Update)
+
+## v3.0.0 - 2024-12-29
+
+### Added:
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/DAa/CWMissing/">CWMissing</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/DAa/">DAa</a></small>
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/XDT/ExtendedPlayerNames/">ExtendedPlayerNames</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/XDT/">XDT</a></small>
+
+- Replaced Mod <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/Shuv/">Shuv</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/www_Day_Dream/">www_Day_Dream</a></small> with <a href="https://thunderstore.io/c/content-warning/p/Novinity/Push/">Push</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Novinity/">Novinity</a></small>
+
+  - Added Mod <a href="https://thunderstore.io/c/content-warning/p/Ryokune/InputAPI/">InputAPI</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Ryokune/">Ryokune</a></small> 
+
+### Updated:
+
+- Updated Mod [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) from `v1.4.0` to `v1.5.1`
+
+- Updated Mod [LongRangeReload](https://thunderstore.io/c/content-warning/p/Greft/LongRangeReload/) from `v1.2.0` to `v1.2.1`
+
+### Removed:
+
+- Removed Mod [Boombox](https://thunderstore.io/c/content-warning/p/hyydsz/Boombox/)
+
+- Removed Mod [BoomboxMusicShare](https://thunderstore.io/c/content-warning/p/LimeSkillZ/BoomboxMusicShare/)
+
+- Removed Mod [KinoMusic](https://thunderstore.io/c/content-warning/p/Wudeczkownia/KinoMusic/)
+
+- Removed Mod [MoreSounds](https://thunderstore.io/c/content-warning/p/ViViKo/MoreSounds/)
+
+- Removed Mod [SillyItems](https://thunderstore.io/c/content-warning/p/Arargd/SillyItems/)
+
+- Removed Mod [Holdens Third Person Mod](https://thunderstore.io/c/content-warning/p/Holden/Holdens_Third_Person_Mod/)
+
+- Removed Mod [EmoteWheel](https://thunderstore.io/c/content-warning/p/Playboi/EmoteWheel/)
+
+- Removed Mod [FreeEmotes](https://thunderstore.io/c/content-warning/p/ViViKo/FreeEmotes/)
+
+- Removed Mod [ShopTweaks](https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/)
+
+- Removed Mod [ShopUtils](https://thunderstore.io/c/content-warning/p/hyydsz/ShopUtils/)
+
+- Removed Mod [CameraLocator](https://thunderstore.io/c/content-warning/p/Electric131/CameraLocator/)
+
+- Removed Mod [EnergyBottle](https://thunderstore.io/c/content-warning/p/hyydsz/EnergyBottle/)
+
+- Removed Mod [MoreSpookerVideo](https://thunderstore.io/c/content-warning/p/TrioGhost/MoreSpookerVideo/)
+
+- Removed Mod [Kill_Button](https://thunderstore.io/c/content-warning/p/ElectricSteve/Kill_Button/)
+
+- Removed Mod [ExtraInventorySlot](https://thunderstore.io/c/content-warning/p/nickklmao/ExtraInventorySlot/)
+
+- Removed Mod [ExitConfirmation](https://thunderstore.io/c/content-warning/p/nickklmao/ExitConfirmation/)
+
+- Removed Mod [More_Comments](https://thunderstore.io/c/content-warning/p/GamingFrame/More_Comments/) Because [issue#7](https://github.com/Adler-real/Better_ContentWarning/issues/7), Thanks to [allferno](https://github.com/allferno) and [ikonikfan](https://github.com/ikonikfan)
+
+- Removed Mod [SFXMixerPatch](https://thunderstore.io/c/content-warning/p/www_Day_Dream/SFXMixerPatch/)
+
+- Removed Mod [CessilCellsCeaChells](https://thunderstore.io/c/content-warning/p/www_Day_Dream/CessilCellsCeaChells/)
+
+- Removed Mod [ContentSettings](https://thunderstore.io/c/content-warning/p/CommanderCat101/ContentSettings/)
+
+### Known Issues:
+
+- The `Toggle Mute` and `Push To Mute` options are not working. Only the Voice Indicator is functioning in the mod [Toggle Mute](https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/).
+
+### Misc:
+
+- Updated Modpack Discription (`manifest.json`)
+
+- Updated `README.md`
+
+- Updated `CHANGELOG.md`
+
+- Updated `icon.png`
+
+  > Fixed and Improved Vector Paths
 
 ## v2.2.7 - 2024-08-22
 
-### Improvements
+### Improvements:
 
 - Changelog now based on [Keep a changelog](https://keepachangelog.com/)
 
@@ -48,7 +124,6 @@ Best regards!
 
 - Updated Modpack Discription (`manifest.json`)
 
-
 ## v2.2.4 - 2024-06-06
 
 ### Fixed:
@@ -70,7 +145,6 @@ Best regards!
 - Updated `README.md`
 
 - Added File `FAQ.md`
-
 
 ## v2.2.3 - 2024-06-06
 
@@ -123,8 +197,8 @@ Sorry for the really late update.
 ### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/ElectricSteve/Kill_Button/">Kill Button</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/ElectricSteve/">ElectricSteve</a></small>
-
-	- You can kill yourself (ingame!) with `K`
+  
+  - You can kill yourself (ingame!) with `K`
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/Project_Renegade/ThirdPerson_by_Holden/">ThirdPerson by Holden</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/Project_Renegade/">Project_Renegade</a></small>
 
@@ -293,7 +367,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Temporarily removed mod [ShopTweaks](https://thunderstore.io/c/content-warning/p/ViViKo/ShopTweaks/), Because issues
 
-## V1.5.2 <sub> |21.04.2024|</sub>
+## v1.5.2 - 2024-04-21
 
 ### Updated:
 
@@ -327,7 +401,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated `icon.png`
 
-## V1.5.1 <sub> |20.04.2024|</sub>
+## v1.5.1 - 2024-04-20
 
 ### Updated:
 
@@ -350,7 +424,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated `CHANGELOG.md`
 
-## V1.5.0 <sub> |20.04.2024|</sub>
+## v1.5.0 - 2024-04-20
 
 ### Added:
 
@@ -374,7 +448,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated `icon.png`
 
-## V1.4.6 <sub> |17.04.2024|</sub>
+## v1.4.6 - 2024-04-17
 
 - Im stupid, The mod [Toggle Mute](https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/) works fine! sorry [Computery](https://thunderstore.io/c/content-warning/p/Computery/)
 
@@ -386,7 +460,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated `README.md`
 
-## V1.4.5 <sub> |16.04.2024|</sub>
+## v1.4.5 - 2024-04-16
 
 - Sorry for the really late patch
 
@@ -394,7 +468,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Removed mod [Toggle Mute](https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/), Because issues
 
-## V1.4.4 <sub> |15.04.2024|</sub>
+## v1.4.4 - 2024-04-15
 
 ### Added:
 
@@ -408,7 +482,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated `README.md`
 
-## V1.4.3 <sub> |15.04.2024|</sub>
+## v1.4.3 - 2024-04-15
 
 - Sorry for the late update
 
@@ -436,7 +510,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated `README.md`
 
-## V1.4.2 <sub> |13.04.2024|</sub>
+## v1.4.2 - 2024-04-13
 
 ### Updated:
 
@@ -448,7 +522,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated `README.md`
 
-## V1.4.1 <sub> |13.04.2024|</sub>
+## v1.4.1 - 2024-04-13
 
 ### Updated:
 
@@ -462,7 +536,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated `README.md`
 
-## V1.4.0 <sub> |12.04.2024|</sub>
+## v1.4.0 - 2024-04-12
 
 ### Added:
 
@@ -523,7 +597,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - Updated `README.md`
 
-## V1.3.0 <sub> |11.04.2024|</sub>
+## v1.3.0 - 2024-04-11
 
 ### Added:
 
@@ -580,7 +654,7 @@ Changed <code>Activate ragdoll keybind</code> from <code>Tab</code> to <code>Lef
 
 - The camera price is 100, and not 65
 
-## V1.2.4 <sub> |09.04.2024|</sub>
+## v1.2.4 - 2024-04-09
 
 ### Updated:
 
@@ -605,13 +679,13 @@ Changed <code>Activate ragdoll keybind</code> from <code>BackQuote</code> to <co
 
 - Updated `README.md`
 
-## V1.2.3 <sub> |08.04.2024|</sub>
+## v1.2.3 - 2024-04-08
 
 ### Misc:
 
 - Updated `README.md`
 
-## V1.2.2 <sub> |08.04.2024|</sub>
+## v1.2.2 - 2024-04-08
 
 ### Updated:
 
@@ -642,7 +716,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
   
   - on version `1.2.1`, i forgot to change the release date
 
-## V1.2.1 <sub> |08.04.2024|</sub>
+## v1.2.1 - 2024-04-08
 
 ### Updated:
 
@@ -678,7 +752,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 
 - GitHub Release comming Later
 
-## V1.2.0 <sub> |07.04.2024|</sub>
+## v1.2.0 - 2024-04-07
 
 ### Big Update!
 
@@ -739,7 +813,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 - Updated `README.md`
 - Updated Modpack Discription (`manifest.json`)
 
-## V1.1.6 <sub> |06.04.2024|</sub>
+## v1.1.6 - 2024-04-06
 
 ### Added:
 
@@ -771,7 +845,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 - Updated `CHANGELOG.md`
 - Updated Modpack Discription (`manifest.json`)
 
-## V1.1.5 <sub> |06.04.2024|</sub>
+## v1.1.5 - 2024-04-06
 
 ### Misc:
 
@@ -782,7 +856,7 @@ Changed <code>Enabled</code> from <code>true</code> to <code>false</code>
 
 Again...
 
-## V1.1.4 <sub> |06.04.2024|</sub>
+## v1.1.4 - 2024-04-06
 
 ### Configs:
 
@@ -803,21 +877,21 @@ Again...
 - Updated `README.md`
 - Updated `CHANGELOG.md`
 
-## V1.1.3 <sub> |06.04.2024|</sub>
+## v1.1.3 - 2024-04-06
 
 ### Misc:
 
 - Updated `README.md`
 - Updated `icon.png`
 
-## V1.1.2 <sub> |06.04.2024|</sub>
+## v1.1.2 - 2024-04-06
 
 ### Misc:
 
 - Updated `README.md`
 - Removed `banner.png`
 
-## V1.1.1 <sub> |06.04.2024|</sub>
+## v1.1.1 - 2024-04-06
 
 ### Updated:
 
@@ -849,7 +923,7 @@ Changed <code>Invert scroll</code> from <code>false</code> to <code>true</code>
 - Updated `README.md`
 - Added `banner.png`
 
-## V1.1.0 <sub> |05.04.2024|</sub>
+## v1.1.0 - 2024-04-05
 
 ### Big Update!
 
@@ -911,7 +985,7 @@ Changed <code>Duration</code> from <code>2</code> to <code>3</code>
 
 Thanks to [Force_GER](https://twitter.com/force_ger) for help optimizing the modpack!
 
-## V1.0.3 <sub> |05.04.2024|</sub>
+## v1.0.3 - 2024-04-05
 
 ### Configs:
 
@@ -922,7 +996,7 @@ Changed <code>Camera zoom key</code> from <code>Z</code> to <code>C</code>
 </details>
 </li> </ul>
 
-## V1.0.2 <sub> |05.04.2024|</sub>
+## v1.0.2 - 2024-04-05
 
 - Modpack Released
 
