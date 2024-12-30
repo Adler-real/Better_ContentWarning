@@ -10,7 +10,7 @@
 
 ⭐ If you enjoy the modpack, please leave a like to support me. Thank you! 🧡
 
-### 🎶 [Update 3.0 Released!](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/changelog/) 🎉️
+### 🎶 [Update 3.0 Released!](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/changelog/) Now Compatible with the Latest Game Version (1.19.e) 🎉️
 
 ### Features:
 

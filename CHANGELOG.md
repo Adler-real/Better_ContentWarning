@@ -4,6 +4,8 @@
 
 ## v3.0.0 - 2024-12-29
 
+### Now Compatible with the Latest Game Version (1.19.e)
+
 ### Added:
 
 - Added Mod <a href="https://thunderstore.io/c/content-warning/p/DAa/CWMissing/">CWMissing</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/DAa/">DAa</a></small>
