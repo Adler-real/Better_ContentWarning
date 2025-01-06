@@ -2,6 +2,20 @@
 
 - <b>Create a new (blank) profile on every update so that everything works correctly.</b> (because The Mod/Modpack Manager don't delete mods/configs on a Update)
 
+## v3.1.0 - 2025-01-06
+
+### Added:
+
+- Added Mod <a href="https://thunderstore.io/c/content-warning/p/gingerphoenix10/ContentPOVs/">ContentPOVs</a> <small>by <a href="https://thunderstore.io/c/content-warning/p/gingerphoenix10/">gingerphoenix10</a></small>
+
+### Updated:
+
+- Updated Mod [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) from `v1.5.1` to `v1.5.3`
+
+### Misc:
+
+- Updated `README.md`
+
 ## v3.0.0 - 2024-12-29
 
 ### Now Compatible with the Latest Game Version (1.19.e)

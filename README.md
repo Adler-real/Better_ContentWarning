@@ -16,7 +16,9 @@
 
 - Custom Configs 📄️!
 
-- The maximum number of players in the lobby 👥 is 8 (Changable in [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) Config file 📄️)
+- The maximum number of players in the lobby 👥 is 8 <small>(Changable in [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) Config file)</small>
+
+- All players in the lobby have a Camera and must play together to reach quota 🎥️
 
 - More Monsters 👹️
 

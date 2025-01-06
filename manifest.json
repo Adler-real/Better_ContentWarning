@@ -1,6 +1,6 @@
 {
     "name": "Better_Content_Warning_Modpack",
-    "version_number": "3.0.1",
+    "version_number": "3.1.0",
     "website_url": "https://github.com/Adler-real/Better_ContentWarning",
     "description": "UPDATE! | A Vanilla+ Modpack, That makes your experience Better! - Configured & ready to play!",
     "dependencies": [
@@ -20,7 +20,7 @@
 		"Greft-LongRangeReload-1.2.1",
 		"Hamunii-AutoHookGenPatcher-1.0.4",
 		"cyclozarin-SnoringWarning-1.1.1",
-		"MaxWasUnavailable-Virality-1.5.1",
+		"MaxWasUnavailable-Virality-1.5.3",
 		"RugbugRedfern-MyceliumNetworking-1.0.14",
 		"ViViKo-MoreColors-1.5.1",
 		"ElectricSteve-Surface_Die_Fix-1.0.0",
@@ -28,6 +28,7 @@
 		"DAa-CWMissing-2.1.1",
 		"Ryokune-InputAPI-1.0.1",
 		"Novinity-Push-1.0.2",
+		"gingerphoenix10-ContentPOVs-1.3.1",
 		"Computery-Toggle_Mute-1.0.0"
     ]
 }
