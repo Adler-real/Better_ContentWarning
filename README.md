@@ -6,37 +6,33 @@
 [![Thunderstore Version](https://img.shields.io/thunderstore/v/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray)](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
 [![GitHub Release](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/Adler-real/Better_ContentWarning)
 
-🎉️ We are the most downloaded modpack on Thunderstore! 🥳 Thank you all for downloading it! 🧡️
+🎉️ We are the most downloaded modpack on Thunderstore! Thank you all for Using it! ❤️
 
-⭐ If you enjoy the modpack, please leave a like to support me. Thank you! 🧡
+⭐ If you enjoy the modpack, please leave a like to support me ❤️
 
-### 🎶 [Update 3.0 Released!](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/changelog/) Now Compatible with the Latest Game Version (1.19.e) 🎉️
+### Features
 
-### Features:
+- 📄️ Custom Configs!
+- 👥 The maximum number of players in the lobby is 8 *(Changable)*
+- 🎥️ All players in the lobby have a Camera and must play together to reach quota
+- 👹️ More Monsters
+- 🛍️ More Items
+- 🎨️ More Colors for your Face
+- 🎨️ More Customization for your Face
+- 🏃️ Better & Longer Sprinting
+- 🎈️ Longer Oxygen & Oxygen refill in the Diving Bell
+- ➕️ You have a Crosshair
+- 🤜 You can Push Your Friends by Pressing `E`
+- 💤 You can Ragdoll by Holding `ALT`
+- 🚀 And more!
 
-- Custom Configs 📄️!
-- The maximum number of players in the lobby 👥 is 8 (Changable in [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) Config file)
-- All players in the lobby have a Camera and must play together to reach quota 🎥️
-- More Monsters 👹️
-- More Items 🛍️
-- More Colors for your Face 🎨️
-- More Customization for your Face 🎨️
-- Better & Longer Sprinting 🏃️
-- Longer Oxygen & Oxygen refill in the Diving Bell 🎈️ 🔔
-- You have a Crosshair ＋
-- You can Push Your Friends by Pressing `E`
-- You can Ragdoll by Holding `ALT`
-- And more! ...
-
-### Changes (Edited Configs):
+### Changes (Edited Configs)
 
 <details>
 <summary>Show 👇️</summary>
 
 - __CWMissing Configs__
-  - Changed `X` from `Mod Default Value: X` to `X`
-  - Changed `X` from `Mod Default Value: X` to `X`
-  - Changed `X` from `Mod Default Value: X` to `X`
+  -  
 - __LongerSprinting Configs__
   - Changed `MaxStamina` from `Mod Default Value: 20` to `13` _(Game Default: `10`)_
   - Changed `StaminaRegenRate` from `Mod Default Value: 2` to `0.65` _(Game Default: `0`)_
@@ -55,15 +51,17 @@
   - Changed `Drop Item` from `Mod Default Value: true` to `false`
 </details>
 
-### Known Issues:
+### Known Issues
 
-> This modpack might stop working after game updates
+- This modpack might stop working after game updates.
 
-> I can't test [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/) 100%, but it should work. If you have any bugs, please open an issue on [GitHub](https://github.com/Adler-real/Better_ContentWarning/issues).
+- I can’t fully test [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/), but it should work. Found a bug? [Open an issue ↗](https://github.com/Adler-real/Better_ContentWarning/issues/new)
 
-- The `Toggle Mute` and `Push To Mute` options are not working. Only the Voice Indicator is functioning in the mod [Toggle Mute](https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/).
+- The `Toggle Mute` and `Push to Mute` options are currently not working. Only the voice indicator functions properly in the [Toggle Mute](https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/) mod.
 
-### [Suggestions / Report Bugs:](https://github.com/Adler-real/Better_ContentWarning/issues)
 
-- For questions, feedback, suggestions or bugs, feel free to [open an issue](https://github.com/Adler-real/Better_ContentWarning/issues/new) on the Official GitHub repository
+### Suggestions / Report Bugs
+
+- Found an issue or have an idea? [Open an issue ↗](https://github.com/Adler-real/Better_ContentWarning/issues/new)
+
 

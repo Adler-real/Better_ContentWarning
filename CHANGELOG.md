@@ -2,6 +2,15 @@
 
 - Create a new blank profile each time you update the Modpack to ensure everything works correctly. (This is necessary because the Mod Manager does not remove mods during updates.)
 
+## v3.1.2 - 2025-11-02
+
+### Updated:
+- [AutoHookGenPatcher](https://thunderstore.io/c/content-warning/p/Hamunii/AutoHookGenPatcher/) updated from `v1.0.4` to `v1.0.9`
+- [DetourContext Dispose Fix](https://thunderstore.io/c/content-warning/p/Hamunii/DetourContext_Dispose_Fix/) updated from `v1.0.3` to `v1.0.7`
+
+### Misc:
+- Updated `README.md` (Improved Visuals)
+
 ## v3.1.1 - 2025-02-20
 
 ### Updated:
