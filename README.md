@@ -1,14 +1,10 @@
 # Better Content Warning 🎥️
 
-[![Banner Image](https://raw.githubusercontent.com/Adler-real/uploadedfiles/main/Content_Warning/Modpacks/Better_ContentWarning/banner.png)](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
+[![Banner Image](https://raw.githubusercontent.com/Adler-real/Better_ContentWarning/main/.github/images/banner.webp)](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
 
 [![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray)](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
 [![Thunderstore Version](https://img.shields.io/thunderstore/v/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray)](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
 [![GitHub Release](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/Adler-real/Better_ContentWarning)
-
-🎉️ We are the most downloaded modpack on Thunderstore! Thank you all for Using it! ❤️
-
-⭐ If you enjoy the modpack, please leave a like to support me ❤️
 
 ### Features
 
@@ -62,6 +58,6 @@
 
 ### Suggestions / Report Bugs
 
-- Found an issue or have an idea? [Open an issue ↗](https://github.com/Adler-real/Better_ContentWarning/issues/new)
+- Found a bug or have a mod you'd like to see added? [Open an issue ↗](https://github.com/Adler-real/Better_ContentWarning/issues/new)
 
 
