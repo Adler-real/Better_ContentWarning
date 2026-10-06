@@ -2,9 +2,7 @@
 
 [![Banner Image](https://raw.githubusercontent.com/Adler-real/Better_ContentWarning/main/.github/images/banner.webp)](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
 
-[![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray)](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
-[![Thunderstore Version](https://img.shields.io/thunderstore/v/Horizon/Better_Content_Warning_Modpack?style=for-the-badge&logo=thunderstore&logoColor=white&labelColor=blue&color=gray)](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/)
-[![GitHub Release](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/Adler-real/Better_ContentWarning)
+[![Thunderstore](https://img.shields.io/badge/THUNDERSTORE-black?style=for-the-badge&logo=thunderstore&logoColor=white&color=blue)](https://thunderstore.io/c/content-warning/p/Horizon/Better_Content_Warning_Modpack/) [![GitHub Release](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/Adler-real/Better_ContentWarning)
 
 ### Features
 
