@@ -1,6 +1,44 @@
 # Changelog
 
-- Create a new blank profile each time you update the Modpack to ensure everything works correctly. (This is necessary because the Mod Manager does not remove mods during updates.)
+- **Create a new blank profile each time you update the Modpack** to ensure everything works correctly. (This is necessary because the Mod Manager does not remove mods during updates.)
+
+## v4.0.0 - 2026-10-07
+
+### Compatible with Content Warning 1.24.0
+
+### Updated
+
+- [BepInExPack](https://thunderstore.io/c/content-warning/p/BepInEx/BepInExPack/) updated from `5.4.2100` to `5.4.2305`
+- [DetourContext Dispose Fix](https://thunderstore.io/c/content-warning/p/Hamunii/DetourContext_Dispose_Fix/) updated from `v1.0.7` to `v1.0.9`
+- [AutoHookGenPatcher](https://thunderstore.io/c/content-warning/p/Hamunii/AutoHookGenPatcher/) updated from `1.0.9` to `1.1.1`
+- [ContentPOVs](https://thunderstore.io/c/content-warning/p/gingerphoenix10/ContentPOVs/) updated from `1.3.6` to `1.3.7`
+
+### Added
+
+- [Unlisted Entities](https://thunderstore.io/c/content-warning/p/BD/Unlisted_Entities/) <small>by <a href="https://thunderstore.io/c/content-warning/p/BD/">BD</a></small>
+	- <small>Dependency</small> [DBs Content API](https://thunderstore.io/c/content-warning/p/BD/DBs_Content_API/) <small>by [BD](https://thunderstore.io/c/content-warning/p/BD/)</small>
+- [InfinitePopper](https://thunderstore.io/c/content-warning/p/h3nw/InfinitePopper/) <small>by [h3nw](https://thunderstore.io/c/content-warning/p/h3nw/)</small>
+- [CapsulePath](https://thunderstore.io/c/content-warning/p/Largo/CapsulePath/) <small>by [Largo](https://thunderstore.io/c/content-warning/p/Largo/)</small>
+- [FilmIncreaser](https://thunderstore.io/c/content-warning/p/rr134/FilmIncreaser/) <small>by [rr134](https://thunderstore.io/c/content-warning/p/rr134/)</small>
+
+### Removed
+
+- [Fall Fix](https://thunderstore.io/c/content-warning/p/Computery/Fall_Fix/)
+    * should be fixed by game
+- [Surface Die Fix](https://thunderstore.io/c/content-warning/p/ElectricSteve/Surface_Die_Fix/)
+    * should be fixed by game
+- [LongerSprinting](https://thunderstore.io/c/content-warning/p/AnthonyStai/LongerSprinting/)
+    * issues: regenerates stamina infinitely
+    * *game's default is long enough*
+- [Virality](https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality/)
+    * Use the [Steam Workshop version](https://steamcommunity.com/sharedfiles/filedetails/?id=3384282236) instead¹
+- [Toggle Mute](https://thunderstore.io/c/content-warning/p/Computery/Toggle_Mute/)
+    * issues: game doesn't start
+- [MoreColors](https://thunderstore.io/c/content-warning/p/ViViKo/MoreColors/)
+    * Use [More Visor Colors at Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3389296239) instead¹
+- [CrossHair](https://thunderstore.io/c/content-warning/p/CTWOriginals/CrossHair/)
+- [ContentSettings](https://thunderstore.io/c/content-warning/p/CommanderCat101/ContentSettings)
+- [SnoringWarning](https://thunderstore.io/c/content-warning/p/cyclozarin/SnoringWarning/)
 
 ## v3.1.2 - 2025-11-02
 
